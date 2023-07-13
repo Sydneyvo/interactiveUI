@@ -17,7 +17,7 @@ struct ContentView: View {
     @State private var presentAlert = false
     
     var body: some View {
-        
+        //this is a github change
         VStack {
             //this section displayed the name text view, the name input and then the button to display the first and last name at the top
             Text(textTitle)
