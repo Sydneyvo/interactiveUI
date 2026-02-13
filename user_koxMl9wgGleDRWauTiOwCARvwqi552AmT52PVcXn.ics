@@ -1,0 +1,2991 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sydney Vo Calendar (Canvas)
+X-WR-CALDESC:Calendar events for the user\, Sydney Vo
+BEGIN:VEVENT
+DTSTAMP:20250902T225800Z
+UID:event-assignment-10525433
+DTSTART:20250829T220000Z
+DTEND:20250829T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Week 1 Exit Ticket: Shark Tank Participation \n\nStudents will
+  be graded on their completion of the Shark Tank assignment. Students must
+  be present during the presentation in order to receive credit. 
+SEQUENCE:0
+SUMMARY:Shark Tank Participation [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=08&year=2025#assignment_10525433
+X-ALT-DESC;FMTTYPE=text/html:<p>Week 1 Exit Ticket: Shark Tank Participatio
+ n&nbsp\;</p>\n<p>Students will be graded on their completion of the Shark 
+ Tank assignment. Students must be present during the presentation in order
+  to receive credit.&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250827T020600Z
+UID:event-calendar-event-4436922
+DTSTART:20250829T223000Z
+DTEND:20250829T232000Z
+CLASS:PUBLIC
+LOCATION:CSE 464 (Matt's Office)\, in-person only
+SEQUENCE:0
+SUMMARY:Matt's Open Office Hours [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=08&year=2025#calendar_event_4436922
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250915T061300Z
+UID:event-calendar-event-4473467
+DTSTART:20250901T200000Z
+DTEND:20250902T000000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting: 920 5063 7788] (https://washi
+ ngton.zoom.us/j/92050637788)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:CSE 195 Instructor Office Hours (Lauren & Matt combined) [CSE 195 A
+ ]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#calendar_event_4473467
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92050
+ 637788" target="_blank">Click here to join Zoom Meeting: 920 5063 7788</a>
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T181600Z
+UID:event-calendar-event-4433554
+DTSTART:20250902T020000Z
+DTEND:20250902T040000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting: 981 4742 7729] (https://washi
+ ngton.zoom.us/j/98147427729?pwd=x9rhXIXREnSRBY4zsdQhseaZpDn4db.1)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:CSE 195 Lauren's Labor Day OH [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#calendar_event_4433554
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98147
+ 427729?pwd=x9rhXIXREnSRBY4zsdQhseaZpDn4db.1" target="_blank">Click here to
+  join Zoom Meeting: 981 4742 7729</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250915T000800Z
+UID:event-assignment-10454931
+DTSTART:20250902T160000Z
+DTEND:20250902T160000Z
+CLASS:PUBLIC
+DESCRIPTION:See Project 1: HTML/CSS on [Edstem] (https://edstem.org/us) for
+  details\n\nRemember to keep track of the time you are working on this pro
+ ject. Please include how long any additional learning you have to do\, tim
+ e you work in class\, as well as time you work out of class. \n\n 
+SEQUENCE:0
+SUMMARY:Project 1: HTML/CSS Implementation and Presentation [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454931
+X-ALT-DESC;FMTTYPE=text/html:<p>See Project 1: HTML/CSS on <a class="inline
+ _disabled external" href="https://edstem.org/us" target="_blank"><span>Eds
+ tem</span></a> for details</p>\n<p>Remember to keep track of the time you 
+ are working on this project. <span>Please include how long any additional 
+ learning you have to do\, time you work in class\, as well as time you wor
+ k out of class.&nbsp\;</span></p>\n<p><span>&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250915T000800Z
+UID:event-assignment-10454933
+DTSTART:20250902T160000Z
+DTEND:20250902T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Your reflection will be done in Gradescope. See Project 1: HTML
+ /CSS on [Edstem] (https://edstem.org/us) for details.
+SEQUENCE:0
+SUMMARY:Project 1: Web Page Reflection (survey) [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454933
+X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
+ ersion enhanced">\n<p>Your reflection will be done in Gradescope. See Proj
+ ect 1: HTML/CSS on <a class="inline_disabled external" href="https://edste
+ m.org/us" target="_blank"><span>Edstem</span></a> for details.</p>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T033100Z
+UID:event-assignment-10454963
+DTSTART:20250902T160000Z
+DTEND:20250902T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Look for the full description of the assignment in the What is 
+ CSE? lesson on [Edstem] (https://edstem.org/us/)
+SEQUENCE:0
+SUMMARY:What is CSE? Slides [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454963
+X-ALT-DESC;FMTTYPE=text/html:<p>Look for the full description of the assign
+ ment in the What is CSE? lesson on <a class="inline_disabled" href="https:
+ //edstem.org/us/" target="_blank">Edstem</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250905T205300Z
+UID:event-assignment-10454957
+DTSTART:20250902T220000Z
+DTEND:20250902T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Week 2 Exit Ticket Wednesday\, 9/2\n\nBefore leaving the Aftern
+ oon Session\, students must input the following into their chosen time man
+ agement tool (Google Calendar or physical planner):\n\nRequired\n\n* Add A
+ LL known Summer Bridge Course Assignments and Deadlines\n\n* Add two (2) n
+ on-Summer Bridge Course related deadlines/tasks/appointments (i.e. Housing
+  move out date\, religious/family/work commitments\, appointments\, etc.)\
+ n\nRecommended\n\n* Summer Bridge course & Fall Class times\n\n* Summer Br
+ idge course Office Hours\n\n* UW Deadlines & key dates (i.e. first day of 
+ fall quarter\, finals week\, tuition deadlines\, religious accommodations 
+ deadlines\, etc.)
+SEQUENCE:0
+SUMMARY:Week 2 Afternoon Exit Ticket: Time Management [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454957
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Week 2 Exit Ticket Wednesday\, 9/2<
+ /strong></p>\n<p>Before leaving the Afternoon Session\, students must inpu
+ t the following into their chosen time management tool (Google Calendar or
+  physical planner):</p>\n<p><strong>Required</strong></p>\n<ul>\n<li>Add A
+ LL known Summer Bridge Course Assignments and Deadlines</li>\n<li>Add two 
+ (2) non-Summer Bridge Course related deadlines/tasks/appointments (i.e. Ho
+ using move out date\, religious/family/work commitments\, appointments\, e
+ tc.)</li>\n</ul>\n<p><strong>Recommended</strong></p>\n<ul>\n<li>Summer Br
+ idge course &amp\; Fall Class times</li>\n<li>Summer Bridge course Office 
+ Hours</li>\n<li>UW Deadlines &amp\; key dates (i.e. first day of fall quar
+ ter\, finals week\, tuition deadlines\, religious accommodations deadlines
+ \, etc.)</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250910T153300Z
+UID:event-assignment-10602206
+DTSTART:20250903T160000Z
+DTEND:20250903T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the PCM: Types\, Operators\, and Variables lesson on [
+ Edstem] (https://edstem.org/us/dashboard) followed by the survey on Grades
+ cope. 
+SEQUENCE:0
+SUMMARY:Assignment 4: Day 6 Pre-Class Material [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10602206
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the <strong>PCM: Types\, Operators
+ \, and Variables</strong> lesson on <a class="inline_disabled" title="Link
+ " href="https://edstem.org/us/dashboard" target="_blank">Edstem</a> follow
+ ed by the survey on Gradescope.&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250905T205300Z
+UID:event-assignment-10454952
+DTSTART:20250903T220000Z
+DTEND:20250903T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Students will write an email on Gradescope responding to the fo
+ llowing prompt about their lightning talk:\n\n \n\nAs you know\, Christin
+ a was not present for your Lightning Talk presentations. Write an email to
+  Christina summarizing your presentation.\n\nYou must reference at least 3
+  photos from your presentation in your email and explain why you included 
+ each of them.
+SEQUENCE:0
+SUMMARY:Thought Bubble: Email Communication [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454952
+X-ALT-DESC;FMTTYPE=text/html:<p>Students will write an email on Gradescope 
+ responding to the following prompt about their lightning talk:</p>\n<p>&nb
+ sp\;</p>\n<p>As you know\, Christina was not present for your Lightning Ta
+ lk presentations. Write an email to Christina summarizing your presentatio
+ n.</p>\n<p>You must reference at least 3 photos from your presentation in 
+ your email and explain why you included each of them.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250910T153400Z
+UID:event-assignment-10602207
+DTSTART:20250904T160000Z
+DTEND:20250904T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the PCM: Functions and Scope lesson on [Edstem] (https
+ ://edstem.org/us/dashboard) followed by the survey on Gradescope. 
+SEQUENCE:0
+SUMMARY:Assignment 5: Day 7 Pre-Class Material [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10602207
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the <strong>PCM: Functions and Sco
+ pe</strong> lesson on <a class="inline_disabled external" title="Link" hre
+ f="https://edstem.org/us/dashboard" target="_blank"><span>Edstem</span></a
+ >&nbsp\;followed by the survey on Gradescope.&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250905T205400Z
+UID:event-assignment-10454958
+DTSTART:20250904T220000Z
+DTEND:20250904T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Week 2 Exit Ticket 9/4\n\nBefore leaving the Afternoon session:
+ \n\n*\n\nComplete the budget sheet based on your Financial Aid package\n\n
+ Submit a pdf file of your budget sheet onto Gradescope
+SEQUENCE:0
+SUMMARY:Week 2 Afternoon Exit Ticket: Treasure Trove Budget Sheet [CSE 195 
+ A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454958
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Week 2 Exit Ticket 9/4</strong></p>
+ \n<p class="amber-el amber-paragraph amber-content">Before leaving the Aft
+ ernoon session:</p>\n<ul class="amber-el amber-list">\n<li class="amber-el
+  amber-listItem">\n<p class="amber-el amber-paragraph amber-content">Compl
+ ete the budget sheet based on your Financial Aid package</p>\n</li>\n</ul>
+ \n<p class="amber-el amber-paragraph amber-content">Submit a pdf file of y
+ our budget sheet onto Gradescope</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250912T051900Z
+UID:event-assignment-10602208
+DTSTART:20250905T160000Z
+DTEND:20250905T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the PCM: Functions and Scope lesson on [Edstem] (https
+ ://edstem.org/us/dashboard) followed by the survey on Gradescope. 
+SEQUENCE:0
+SUMMARY:Assignment 6: Day 8 Pre-Class Material [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10602208
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the <strong>PCM: Functions and Sco
+ pe</strong> lesson on <a class="inline_disabled external" title="Link" hre
+ f="https://edstem.org/us/dashboard" target="_blank"><span>Edstem</span></a
+ >&nbsp\;followed by the survey on Gradescope.&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T032600Z
+UID:event-assignment-10454936
+DTSTART:20250905T160000Z
+DTEND:20250905T160000Z
+CLASS:PUBLIC
+DESCRIPTION:See Project 2: Calculator on [Edstem] (https://edstem.org/us) f
+ or details
+SEQUENCE:0
+SUMMARY:Project 2: Calculator Wireframe [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454936
+X-ALT-DESC;FMTTYPE=text/html:<p>See Project 2: Calculator on <a class="inli
+ ne_disabled" href="https://edstem.org/us" target="_blank">Edstem</a> for d
+ etails</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T033100Z
+UID:event-assignment-10454962
+DTSTART:20250905T160000Z
+DTEND:20250905T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Look for the full description of the assignment in the What is 
+ CSE? lesson on [Edstem] (https://edstem.org/us/)
+SEQUENCE:0
+SUMMARY:What is CSE? Participation [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454962
+X-ALT-DESC;FMTTYPE=text/html:<p>Look for the full description of the assign
+ ment in the What is CSE? lesson on <a class="inline_disabled" href="https:
+ //edstem.org/us/" target="_blank">Edstem</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T033200Z
+UID:event-assignment-10454948
+DTSTART:20250905T190000Z
+DTEND:20250905T190000Z
+CLASS:PUBLIC
+DESCRIPTION:See [Edstem] (https://us.edstem.org) for information and resour
+ ces to study for the quiz. 
+SEQUENCE:0
+SUMMARY:Quiz 2 [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454948
+X-ALT-DESC;FMTTYPE=text/html:<p>See <a class="inline_disabled" href="https:
+ //us.edstem.org" target="_blank">Edstem</a> for information and resources 
+ to study for the quiz.&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250908T170200Z
+UID:event-assignment-10454953
+DTSTART:20250905T220000Z
+DTEND:20250905T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Students will complete a short reflection on Gradescope. \n\n
+  \n\nQuestion: \n\nWhat is one piece of advice shared by the faculty pan
+ el that you would like to apply in your own experience? What impact would 
+ applying this advice have on your experience?\n\nYour response must be wri
+ tten in complete sentences and fully answer all parts of the questions.
+SEQUENCE:0
+SUMMARY:Thought Bubble: Faculty Panel [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454953
+X-ALT-DESC;FMTTYPE=text/html:<p>Students will complete a short reflection o
+ n Gradescope.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Question:&nbsp\;</p>\n<p>What
+  is one piece of advice shared by the faculty panel that you would like to
+  apply in your own experience? What impact would applying this advice have
+  on your experience?</p>\n<p>Your response must be written in complete sen
+ tences and fully answer all parts of the questions.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250827T020600Z
+UID:event-calendar-event-4436923
+DTSTART:20250905T223000Z
+DTEND:20250905T232000Z
+CLASS:PUBLIC
+LOCATION:CSE 464 (Matt's Office)\, in-person only
+SEQUENCE:0
+SUMMARY:Matt's Open Office Hours [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#calendar_event_4436923
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250915T061300Z
+UID:event-calendar-event-4473468
+DTSTART:20250908T200000Z
+DTEND:20250909T000000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting: 920 5063 7788] (https://washi
+ ngton.zoom.us/j/92050637788)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:CSE 195 Instructor Office Hours (Lauren & Matt combined) [CSE 195 A
+ ]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#calendar_event_4473468
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92050
+ 637788" target="_blank">Click here to join Zoom Meeting: 920 5063 7788</a>
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T232300Z
+UID:event-assignment-10454935
+DTSTART:20250909T160000Z
+DTEND:20250909T160000Z
+CLASS:PUBLIC
+DESCRIPTION:See Project 2: Calculator on [Edstem] (https://edstem.org/us) f
+ or details\n\nRemember to keep track of the time you are working on this p
+ roject. Please include how long any additional learning you have to do\, t
+ ime you work in class\, as well as time you work out of class. 
+SEQUENCE:0
+SUMMARY:Project 2: Calculator Implementation and Presentation  [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454935
+X-ALT-DESC;FMTTYPE=text/html:<p>See Project 2: Calculator on <a class="inli
+ ne_disabled external" href="https://edstem.org/us" target="_blank"><span>E
+ dstem</span></a> for details</p>\n<p>Remember to keep track of the time yo
+ u are working on this project. <span>Please include how long any additiona
+ l learning you have to do\, time you work in class\, as well as time you w
+ ork out of class.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T232200Z
+UID:event-assignment-10454937
+DTSTART:20250909T160000Z
+DTEND:20250909T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Your reflection will be done in Gradescope. See Project 2: Calc
+ ulator on [Edstem] (https://edstem.org/us) for details.
+SEQUENCE:0
+SUMMARY:Project 2: Web Page Reflection [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454937
+X-ALT-DESC;FMTTYPE=text/html:<p>Your reflection will be done in Gradescope.
+  See Project 2: Calculator on <a class="inline_disabled external" href="ht
+ tps://edstem.org/us" target="_blank"><span>Edstem</span></a> for details.<
+ /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250910T051700Z
+UID:event-assignment-10454929
+DTSTART:20250909T190000Z
+DTEND:20250909T190000Z
+CLASS:PUBLIC
+DESCRIPTION:Demonstrate you're fully engaged in this in class activity\, th
+ en (as a group) turn in your app name and purpose on Gradescope
+SEQUENCE:0
+SUMMARY:Participation in the UCD Charrette [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454929
+X-ALT-DESC;FMTTYPE=text/html:<p>Demonstrate you're fully engaged in this in
+  class activity\, then (as a group) turn in your app name and purpose on G
+ radescope</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250911T154700Z
+UID:event-assignment-10454959
+DTSTART:20250909T200000Z
+DTEND:20250909T200000Z
+CLASS:PUBLIC
+DESCRIPTION:Week 2 afternoon sessions are aimed at having students develop 
+ their own college toolkit that involves building critical academic habits\
+ , college readiness skills as well as gaining familiarity with campus reso
+ urces in navigating the Allen School and UW at large. Each day will provid
+ e students with core college prep topics to promote knowledge building and
+  navigational skills that considers the holistic experience of students tr
+ ansitioning to a large institution.\n\nREFLECTION PROMPT\n\nIn reflecting 
+ on what would make up your own college toolkit\, what were THREE (3) top
+ ics or sessions that resonated most with you from this past week's activit
+ ies and WHY? Be specific. Consider the following questions to help guide 
+ your reflection:\n\n* What did you experience\, see or hear that stands ou
+ t?\n\n* Was there anything surprising to you? Why did this surprise you?\n
+ \n* What assumptions/perceptions were challenged or re-affirmed?\n\n* How 
+ will what you learned from this past week help you thrive as a UW /Allen S
+ chool student?\n\n \n\nREFLECTION REQUIREMENTS\n\n*\n\nFormat: Your refle
+ ction should include your first & last name\, a title\, and must be done i
+ n 12-point font with 1-inch margins.\n\n*\n\nLength: Your reflection shoul
+ d be at least 500 words\, double-spaced.\n\n*\n\nQuality: Your reflection 
+ should demonstrate a thorough self-reflective analysis and have minor punc
+ tuation and grammatical errors.\n\n \n\nRUBRIC - 5 POINTS\n\n*\n\n1 Point
+ : Examples Provided\nStudent includes concrete and clear examples for each
+  of the reflection questions\n\n*\n\n3 Points: Depth of Reflection\nStuden
+ t addresses all components of the prompt. Students connect why examples ar
+ e significant and important to answering the prompts. Student provides ins
+ ightful observations and examines their own past experiences\, assumptions
+ \, ideas as it relates to the topic to illustrate clear connections betwee
+ n what is learned from topics / activities and why they are important.\n\n
+ *\n\n1 Point: Spelling & Punctuation\nLess than 3 types of punctuation and
+ /or spelling errors. Student uses basic punctuation rules accurately and s
+ hows knowledge of end of sentence punctuation. Capitalization rules are ac
+ curately used and spelling is generally correct. There may be some grammar
+  errors present but they do not interfere with the reader’s understandin
+ g of the writing or the effectiveness of writing style.\n\nSubmit your ref
+ lection on Gradescope by Tuesday\, September 9th by 1PM.
+SEQUENCE:0
+SUMMARY:Week 2 College Toolkit Reflection [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454959
+X-ALT-DESC;FMTTYPE=text/html:<p class="amber-el amber-paragraph amber-conte
+ nt">Week 2 afternoon sessions are aimed at having students develop their o
+ wn college toolkit that involves building critical academic habits\, colle
+ ge readiness skills as well as gaining familiarity with campus resources i
+ n navigating the Allen School and UW at large. Each day will provide stude
+ nts with core college prep topics to promote knowledge building and naviga
+ tional skills that considers the holistic experience of students transitio
+ ning to a large institution.</p>\n<p class="amber-el amber-paragraph amber
+ -content"><strong class="amber-el amber-bold">REFLECTION PROMPT</strong></
+ p>\n<p><em>In reflecting on what would make up your own college toolkit\, 
+ what were<span>&nbsp\;</span><strong>THREE</strong><span>&nbsp\;</span>(3)
+  topics or sessions that resonated most with you from this past week's act
+ ivities and<span>&nbsp\;</span><strong>WHY</strong>? Be specific. Consider
+  the following questions to help guide your reflection:</em></p>\n<ul>\n<l
+ i><em>What did you experience\, see or hear that stands out?</em></li>\n<l
+ i><em>Was there anything surprising to you? Why did this surprise you?</em
+ ></li>\n<li><em>What assumptions/perceptions were challenged or re-affirme
+ d?</em></li>\n<li><em>How will what you learned from this past week help y
+ ou thrive as a UW /Allen School student?</em></li>\n</ul>\n<p class="amber
+ -el amber-paragraph amber-content">&nbsp\;</p>\n<p class="amber-el amber-p
+ aragraph amber-content"><strong class="amber-el amber-bold">REFLECTION REQ
+ UIREMENTS</strong></p>\n<ul class="amber-el amber-list">\n<li class="amber
+ -el amber-listItem">\n<p class="amber-el amber-paragraph amber-content">Fo
+ rmat: Your reflection should include your first &amp\; last name\, a title
+ \, and must be done in 12-point font with 1-inch margins.</p>\n</li>\n<li 
+ class="amber-el amber-listItem">\n<p class="amber-el amber-paragraph amber
+ -content">Length: Your reflection should be at least 500 words\, double-sp
+ aced.</p>\n</li>\n<li class="amber-el amber-listItem">\n<p class="amber-el
+  amber-paragraph amber-content">Quality: Your reflection should demonstrat
+ e a thorough self-reflective analysis and have minor punctuation and gramm
+ atical errors.</p>\n</li>\n</ul>\n<p class="amber-el amber-paragraph amber
+ -content">&nbsp\;</p>\n<p class="amber-el amber-paragraph amber-content"><
+ strong class="amber-el amber-bold">RUBRIC - 5 POINTS</strong></p>\n<ul cla
+ ss="amber-el amber-list">\n<li class="amber-el amber-listItem">\n<p class=
+ "amber-el amber-paragraph amber-content"><strong class="amber-el amber-bol
+ d">1 Point: Examples Provided</strong><br class="amber-el amber-break">Stu
+ dent includes concrete and clear examples for each of the reflection quest
+ ions</p>\n</li>\n<li class="amber-el amber-listItem">\n<p class="amber-el 
+ amber-paragraph amber-content"><strong class="amber-el amber-bold">3 Point
+ s: Depth of Reflection</strong><br class="amber-el amber-break">Student ad
+ dresses all components of the prompt. Students connect why examples are si
+ gnificant and important to answering the prompts. Student provides insight
+ ful observations and examines their own past experiences\, assumptions\, i
+ deas as it relates to the topic to illustrate clear connections between wh
+ at is learned from topics / activities and why they are important.</p>\n</
+ li>\n<li class="amber-el amber-listItem">\n<p class="amber-el amber-paragr
+ aph amber-content"><strong class="amber-el amber-bold">1 Point: Spelling &
+ amp\; Punctuation</strong><br class="amber-el amber-break">Less than 3 typ
+ es of punctuation and/or spelling errors. Student uses basic punctuation r
+ ules accurately and shows knowledge of end of sentence punctuation. Capita
+ lization rules are accurately used and spelling is generally correct. Ther
+ e may be some grammar errors present but they do not interfere with the re
+ ader’s understanding of the writing or the effectiveness of writing styl
+ e.</p>\n</li>\n</ul>\n<p class="amber-el amber-paragraph amber-content"><s
+ trong class="amber-el amber-bold">Submit your reflection on Gradescope by 
+ Tuesday\, September 9th by 1PM.</strong></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250911T154700Z
+UID:event-assignment-10525751
+DTSTART:20250909T220000Z
+DTEND:20250909T220000Z
+CLASS:PUBLIC
+DESCRIPTION:------------------------------------\nPhoto Journal Final Proje
+ ct Check In\n------------------------------------\n\nBy the end of class\,
+  students will submit either:\n\n* Screenshot of your website and what you
+  have already completed which includes the photo and reflection\n\nOR\n\n*
+  Document with your photo and reflection that will be on your website\n\nT
+ he goal is to have at least a photo journal entry completed on your websit
+ e for Week 1.\n\nStudent will need to submit onto Gradescope before the en
+ d of class.\n\nThis assignment is only grade whether there is progress bei
+ ng made with this assignment. We will not be grading reflections yet\, but
+  will provide feedback if needed.
+SEQUENCE:0
+SUMMARY:Photo Journal Week 3 Check In [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10525751
+X-ALT-DESC;FMTTYPE=text/html:<h2>Photo Journal Final Project Check In</h2>\
+ n<p>By the end of class\, students will submit either:</p>\n<ol>\n<li>Scre
+ enshot of your website and what you have already completed which includes 
+ the photo and reflection</li>\n</ol>\n<p>OR</p>\n<ol start="2">\n<li>Docum
+ ent with your photo and reflection that will be on your website</li>\n</ol
+ >\n<p>The goal is to have at least a photo journal entry completed on your
+  website for Week 1.</p>\n<p>Student will need to submit onto Gradescope b
+ efore the end of class.</p>\n<p>This assignment is only grade whether ther
+ e is progress being made with this assignment. We will not be grading refl
+ ections yet\, but will provide feedback if needed.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T232100Z
+UID:event-assignment-10454942
+DTSTART:20250910T160000Z
+DTEND:20250910T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Day 10 Pre-Class Material on [Edstem] (https://edstem.org/us) a
+ nd [Gradescope] (https://www.gradescope.com/) for details\n\n* Important! 
+ Keep track of all of the time you worked on this part of the assignment - 
+ we want to know how long it took you to complete the tutorials. Include an
+ y time you worked on these in class\, at home\, or during office hours..\n
+ \n* Fill out the survey on Gradescope to receive credit for this work. 
+SEQUENCE:0
+SUMMARY:Assignment 7: Day 10 Pre-Class Material [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454942
+X-ALT-DESC;FMTTYPE=text/html:<p>Day 10 Pre-Class Material on <a class="inli
+ ne_disabled" href="https://edstem.org/us" target="_blank">Edstem</a> and <
+ a class="inline_disabled" href="https://www.gradescope.com/" target="_blan
+ k">Gradescope</a> for details</p>\n<ul>\n<li>Important! Keep track of all 
+ of the time you worked on this part of the assignment - we want to know ho
+ w long it took you to complete the tutorials. Include any time you worked 
+ on these in class\, at home\, or during office hours..</li>\n<li>Fill out 
+ the survey on Gradescope to receive credit for this work.&nbsp\;</li>\n</u
+ l>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250912T185300Z
+UID:event-assignment-10454954
+DTSTART:20250910T220000Z
+DTEND:20250910T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Students will complete a short reflection on Gradescope. \n\n
+  \n\nQuestion: After listening to the two presentations\, what are at lea
+ st 2 things that you’ve learned about research done within the field of 
+ computing?
+SEQUENCE:0
+SUMMARY:Thought Bubble: Researchers Lightning Talk Reflection [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454954
+X-ALT-DESC;FMTTYPE=text/html:<p>Students will complete a short reflection o
+ n Gradescope.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Question: After listening to 
+ the two presentations\, what are at least 2 things that you’ve learned a
+ bout research done within the field of computing?</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T231400Z
+UID:event-assignment-10635953
+DTSTART:20250911T160000Z
+DTEND:20250911T160000Z
+CLASS:PUBLIC
+DESCRIPTION:View Day 10 Pre-Class Material on [Gradescope] (https://www.gra
+ descope.com/) for details\n\n* Important! Keep track of all of the time yo
+ u worked on this part of the assignment - we want to know how long it took
+  you to complete the tutorials. Include any time you worked on these in cl
+ ass\, at home\, or during office hours..\n\n* Fill out the survey on Grade
+ scope to receive credit for this work. 
+SEQUENCE:0
+SUMMARY:Assignment 8: Day 11 Pre-Class Material [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10635953
+X-ALT-DESC;FMTTYPE=text/html:<p>View Day 10 Pre-Class Material on <a class=
+ "inline_disabled" href="https://www.gradescope.com/" target="_blank">Grade
+ scope</a> for details</p>\n<ul>\n<li>Important! Keep track of all of the t
+ ime you worked on this part of the assignment - we want to know how long i
+ t took you to complete the tutorials. Include any time you worked on these
+  in class\, at home\, or during office hours..</li>\n<li>Fill out the surv
+ ey on Gradescope to receive credit for this work.&nbsp\;</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T233200Z
+UID:event-assignment-10454960
+DTSTART:20250911T220000Z
+DTEND:20250911T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Week 3 Exit Ticket (September 11)\n\nBefore leaving the Afterno
+ on Session\, students must:\n\nSubmit LinkedIn Report from Jobscan
+SEQUENCE:0
+SUMMARY:Week 3 Afternoon Exit Ticket: LinkedIn Report from Jobscan [CSE 195
+  A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454960
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Week 3 Exit Ticket (September 11)</
+ strong></p>\n<p class="amber-el amber-paragraph amber-content">Before leav
+ ing the Afternoon Session\, students must:</p>\n<p class="amber-el amber-p
+ aragraph amber-content">Submit LinkedIn Report from Jobscan</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T231400Z
+UID:event-assignment-10636177
+DTSTART:20250912T160000Z
+DTEND:20250912T160000Z
+CLASS:PUBLIC
+DESCRIPTION:View Day 12 Pre-Class Material on [Gradescope] (https://www.gra
+ descope.com/) for details\n\n* Important! Keep track of all of the time yo
+ u worked on this part of the assignment - we want to know how long it took
+  you to complete the tutorials. Include any time you worked on these in cl
+ ass\, at home\, or during office hours..\n\n* Fill out the survey on Grade
+ scope to receive credit for this work. 
+SEQUENCE:0
+SUMMARY:Assignment 9: Day 12 Pre-Class Material [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10636177
+X-ALT-DESC;FMTTYPE=text/html:<p>View Day 12 Pre-Class Material on <a class=
+ "inline_disabled" href="https://www.gradescope.com/" target="_blank">Grade
+ scope</a> for details</p>\n<ul>\n<li>Important! Keep track of all of the t
+ ime you worked on this part of the assignment - we want to know how long i
+ t took you to complete the tutorials. Include any time you worked on these
+  in class\, at home\, or during office hours..</li>\n<li>Fill out the surv
+ ey on Gradescope to receive credit for this work.&nbsp\;</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T231300Z
+UID:event-assignment-10454949
+DTSTART:20250912T190000Z
+DTEND:20250912T190000Z
+CLASS:PUBLIC
+DESCRIPTION:See [Edstem] (https://us.edstem.org) for information and resour
+ ces to study for the quiz. 
+SEQUENCE:0
+SUMMARY:Quiz 3 [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454949
+X-ALT-DESC;FMTTYPE=text/html:<p>See <a class="inline_disabled" href="https:
+ //us.edstem.org" target="_blank">Edstem</a> for information and resources 
+ to study for the quiz.&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T233200Z
+UID:event-assignment-10454930
+DTSTART:20250912T200000Z
+DTEND:20250912T200000Z
+CLASS:PUBLIC
+DESCRIPTION:After learning some of the best practices\, key components\, an
+ d structure for crafting your professional resume\, please submit a final 
+ version of your resume.\n\nYour resume should be 1-page and include the fo
+ llowing components:\n\n*\n\nRequired Sections: Name\, Contact Information\
+ , Education\, Experience\, Skills\n\n*\n\nAction Words: Utilizing action w
+ ords to describe experiences\, skills and/or duties\n\n*\n\nFormatting & C
+ onsistency: Style\, structure\, and formatting is consistent across resume
+  sections\n\nSubmit your resume on Gradescope by Friday September 12th at 
+ 1PM\n\nPlease see below for grading rubric:\n\nRUBRIC - 3 POINTS\n\n*\n\n1
+  Point: Required Sections\nStudent includes required sections in resume\n\
+ n*\n\n1 Points: Action Words\nStudents includes an action word for each bu
+ llet point item that describe the experience\, skill or duty highlighted u
+ nder professional\, extracurricular/volunteer\, and/or project sections of
+  resume.\n\n*\n\n1 Point: Formatting & Consistency\nStudent uses consisten
+ t front\, font size\, and spaces across all required sections. Student has
+  less than 3 punctuation\, grammatical and/or formatting errors. Resume do
+ es not exceed 1-page.
+SEQUENCE:0
+SUMMARY:Professional Resume [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454930
+X-ALT-DESC;FMTTYPE=text/html:<p class="amber-el amber-paragraph amber-conte
+ nt">After learning some of the best practices\, key components\, and struc
+ ture for crafting your professional resume\, please submit a final version
+  of your resume.</p>\n<p class="amber-el amber-paragraph amber-content">Yo
+ ur resume should be 1-page and include the following components:</p>\n<ul 
+ class="amber-el amber-list">\n<li class="amber-el amber-listItem">\n<p cla
+ ss="amber-el amber-paragraph amber-content"><strong class="amber-el amber-
+ bold">Required Sections:</strong> Name\, Contact Information\, Education\,
+  Experience\, Skills</p>\n</li>\n<li class="amber-el amber-listItem">\n<p 
+ class="amber-el amber-paragraph amber-content"><strong class="amber-el amb
+ er-bold">Action Words</strong>: Utilizing action words to describe experie
+ nces\, skills and/or duties</p>\n</li>\n<li class="amber-el amber-listItem
+ ">\n<p class="amber-el amber-paragraph amber-content"><strong class="amber
+ -el amber-bold">Formatting &amp\; Consistency:</strong> Style\, structure\
+ , and formatting is consistent across resume sections</p>\n</li>\n</ul>\n<
+ p class="amber-el amber-paragraph amber-content"><strong class="amber-el a
+ mber-bold">Submit your resume on Gradescope by Friday September 12th at 1P
+ M</strong></p>\n<p class="amber-el amber-paragraph amber-content">Please s
+ ee below for grading rubric:</p>\n<p class="amber-el amber-paragraph amber
+ -content"><strong class="amber-el amber-bold">RUBRIC - 3 POINTS</strong></
+ p>\n<ul class="amber-el amber-list">\n<li class="amber-el amber-listItem">
+ \n<p class="amber-el amber-paragraph amber-content"><strong class="amber-e
+ l amber-bold">1 Point: Required Sections</strong><br class="amber-el amber
+ -break">Student includes required sections in resume</p>\n</li>\n<li class
+ ="amber-el amber-listItem">\n<p class="amber-el amber-paragraph amber-cont
+ ent"><strong class="amber-el amber-bold">1 Points: Action Words</strong><b
+ r class="amber-el amber-break">Students includes an action word for <u cla
+ ss="amber-el amber-underline">each bullet point item</u> that describe the
+  experience\, skill or duty highlighted under professional\, extracurricul
+ ar/volunteer\, and/or project sections of resume.</p>\n</li>\n<li class="a
+ mber-el amber-listItem">\n<p class="amber-el amber-paragraph amber-content
+ "><strong class="amber-el amber-bold">1 Point: Formatting &amp\; Consisten
+ cy<br class="amber-el amber-break"></strong>Student uses consistent front\
+ , font size\, and spaces across all required sections. Student has less th
+ an 3 punctuation\, grammatical and/or formatting errors. Resume does not e
+ xceed 1-page.</p>\n</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T232100Z
+UID:event-assignment-10454939
+DTSTART:20250912T220000Z
+DTEND:20250912T220000Z
+CLASS:PUBLIC
+DESCRIPTION:See Project 3: App Development lesson on [Edstem] (https://edst
+ em.org/us) for details\n\n \n\n 
+SEQUENCE:0
+SUMMARY:Project 3: App Paper Prototype\, Prioritization\, & Time Estimates 
+ [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454939
+X-ALT-DESC;FMTTYPE=text/html:<p>See Project 3: App Development lesson on <a
+  class="inline_disabled" href="https://edstem.org/us" target="_blank">Edst
+ em</a> for details</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250912T224400Z
+UID:event-assignment-10454950
+DTSTART:20250912T220000Z
+DTEND:20250912T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Students will complete a short reflection on Gradescope. \n\n
+  \n\nQuestion: What is something that our panelists shared that resonated
+  with you and why was it impactful?
+SEQUENCE:0
+SUMMARY:Thought Bubble: Alumni Panel [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454950
+X-ALT-DESC;FMTTYPE=text/html:<p>Students will complete a short reflection o
+ n Gradescope.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Question: What is something t
+ hat our panelists shared that resonated with you and why was it impactful?
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250827T020600Z
+UID:event-calendar-event-4436924
+DTSTART:20250912T223000Z
+DTEND:20250912T232000Z
+CLASS:PUBLIC
+LOCATION:CSE 464 (Matt's Office)\, in-person only
+SEQUENCE:0
+SUMMARY:Matt's Open Office Hours [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#calendar_event_4436924
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250915T061300Z
+UID:event-calendar-event-4473469
+DTSTART:20250915T200000Z
+DTEND:20250916T000000Z
+CLASS:PUBLIC
+DESCRIPTION:[Click here to join Zoom Meeting: 920 5063 7788] (https://washi
+ ngton.zoom.us/j/92050637788)
+LOCATION:Zoom Online Meeting
+SEQUENCE:0
+SUMMARY:CSE 195 Instructor Office Hours (Lauren & Matt combined) [CSE 195 A
+ ]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#calendar_event_4473469
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92050
+ 637788" target="_blank">Click here to join Zoom Meeting: 920 5063 7788</a>
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250909T160000Z
+UID:event-assignment-10454938
+DTSTART:20250916T160000Z
+DTEND:20250916T160000Z
+CLASS:PUBLIC
+DESCRIPTION:See Project 3: App Development lesson on [Edstem] (https://edst
+ em.org/us) for details
+SEQUENCE:0
+SUMMARY:Project 3: App Implementation and Testing [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454938
+X-ALT-DESC;FMTTYPE=text/html:<p>See Project 3: App Development lesson on <a
+  class="inline_disabled" href="https://edstem.org/us" target="_blank">Edst
+ em</a> for details</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250909T160000Z
+UID:event-assignment-10454940
+DTSTART:20250916T160000Z
+DTEND:20250916T160000Z
+CLASS:PUBLIC
+DESCRIPTION:See Project 3: App Development lesson on [Edstem] (https://edst
+ em.org/us) for details
+SEQUENCE:0
+SUMMARY:Project 3: App Reflection [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454940
+X-ALT-DESC;FMTTYPE=text/html:<p>See Project 3: App Development lesson on <a
+  class="inline_disabled" href="https://edstem.org/us" target="_blank">Edst
+ em</a> for details</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T220900Z
+UID:event-assignment-10454924
+DTSTART:20250916T200000Z
+DTEND:20250916T200000Z
+CLASS:PUBLIC
+DESCRIPTION:This week focused on two key aspects of developing your career 
+ pathway - exploration and preparation. \n\nIn reflecting on this past wee
+ k's activities\, please write a reflection addressing EACH of the below qu
+ estions:\n\n*\n\n* What was one of the biggest takeaways from the resume-b
+ uilding or LinkedIn workshop sessions? Why is this takeaway personally rel
+ evant to you and your goals or interests?\n\n* How do you want to build up
+ on your resume during your first-year in the Allen School/UW? What steps w
+ ill you need to take in order to achieve this?\n\n* What assumptions/perce
+ ptions were challenged or re-affirmed?\n\n* Describe your biggest takeaway
+  from the Alumni Panel and listening to Allen Scholars/Allen School Alumni
+  about their experiences. What was one thing that was eye-opening or surpr
+ ised you and why?\n\n* How will what you learned from this past week help 
+ you thrive as a UW/Allen School student?\n\nREFLECTION REQUIREMENTS\n\nFor
+ mat: Your reflection should include your first & last name\, a title\, and
+  must be done in 12-point font with 1-inch margins. You must also accurate
+ ly assign pages in Gradescope. \n\nLength: Your reflection should be at l
+ east 500 words\, double-spaced. \n\nQuality: Your reflection should demon
+ strate a thorough self-reflective analysis and have minor punctuation and 
+ grammatical errors. \n\nRUBRIC - 5 POINTS\n\n1 Point: Examples Provided\n
+ Student includes concrete THREE (3) and clear examples for the reflection\
+ n\n3 Points: Depth of Reflection\nStudent addresses all components of the 
+ prompt. Students connect why examples are significant and important to ans
+ wering the prompts. Student provides insightful observations and examines 
+ their own past experiences\, assumptions\, ideas as it relates to the topi
+ c to illustrate clear connections between what is learned from topics / ac
+ tivities and why they are important.\n\n1 Point: Spelling & Punctuation\nL
+ ess than 3 punctuation and/or spelling errors. Student uses basic punctuat
+ ion rules accurately and shows knowledge of end of sentence punctuation. C
+ apitalization rules are accurately used and spelling is generally correct.
+  There may be some grammar errors present but they do not interfere with t
+ he reader’s understanding of the writing or the effectiveness of writing
+  style.\n\nSubmit your reflection on [Gradescope ] (https://www.gradescope
+ .com/courses/1064157/assignments/6387327)by Tuesday\, September 10th by 1P
+ M
+SEQUENCE:0
+SUMMARY:Career Exploration & Preparation Reflection [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454924
+X-ALT-DESC;FMTTYPE=text/html:<p>This week focused on two key aspects of dev
+ eloping your career pathway - exploration and preparation.&nbsp\;</p>\n<p>
+ <em>In reflecting on this past week's activities\, please write a reflecti
+ on addressing <strong>EACH </strong>of the below questions:</em></p>\n<ul>
+ \n<li style="list-style-type: none\;">\n<ul>\n<li><em>What was one of the 
+ biggest takeaways from the resume-building or LinkedIn workshop sessions? 
+ Why is this takeaway personally relevant to you and your goals or interest
+ s?</em></li>\n<li><em>How do you want to build upon your resume during you
+ r first-year in the Allen School/UW? What steps will you need to take in o
+ rder to achieve this?</em></li>\n<li><em>What assumptions/perceptions were
+  challenged or re-affirmed?</em></li>\n<li><em>Describe your biggest takea
+ way from the Alumni Panel and listening to Allen Scholars/Allen School Alu
+ mni about their experiences. What was one thing that was eye-opening or su
+ rprised you and why?</em></li>\n<li><em>How will what you learned from thi
+ s past week help you thrive as a UW/Allen School student?</em></li>\n</ul>
+ \n</li>\n</ul>\n<p><strong>REFLECTION REQUIREMENTS</strong></p>\n<p>Format
+ : Your reflection should include your first &amp\; last name\, a title\, a
+ nd must be done in 12-point font with 1-inch margins. You must also accura
+ tely assign pages in Gradescope.&nbsp\;</p>\n<p>Length: Your reflection sh
+ ould be at least 500 words\, double-spaced.&nbsp\;</p>\n<p>Quality: Your r
+ eflection should demonstrate a thorough self-reflective analysis and have 
+ minor punctuation and grammatical errors.&nbsp\;</p>\n<p><strong>RUBRIC - 
+ 5 POINTS</strong></p>\n<p>1 Point: Examples Provided<br>Student includes c
+ oncrete THREE (3) and clear examples for the reflection</p>\n<p>3 Points: 
+ Depth of Reflection<br>Student addresses all components of the prompt. Stu
+ dents connect why examples are significant and important to answering the 
+ prompts. Student provides insightful observations and examines their own p
+ ast experiences\, assumptions\, ideas as it relates to the topic to illust
+ rate clear connections between what is learned from topics / activities an
+ d why they are important.</p>\n<p>1 Point: Spelling &amp\; Punctuation<br>
+ Less than 3 punctuation and/or spelling errors. Student uses basic punctua
+ tion rules accurately and shows knowledge of end of sentence punctuation. 
+ Capitalization rules are accurately used and spelling is generally correct
+ . There may be some grammar errors present but they do not interfere with 
+ the reader’s understanding of the writing or the effectiveness of writin
+ g style.</p>\n<p>Submit your reflection on <a class="inline_disabled" titl
+ e="Link" href="https://www.gradescope.com/courses/1064157/assignments/6387
+ 327" target="_blank">Gradescope </a>by <strong>Tuesday\, September 10th by
+  1PM</strong></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T233200Z
+UID:event-assignment-10454955
+DTSTART:20250916T220000Z
+DTEND:20250916T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Students will complete a short reflection on Gradescope. \n\n
+  \n\nQuestion: \n\nName one of your top five values. What are the early 
+ warning indicators or signs that you’re living outside this value?\n\nYo
+ u must write at least 2 complete sentences and clearly identify indicators
+ \, signs\, or behaviors that are in misalignment with living your value in
+  order to receive full credit.
+SEQUENCE:0
+SUMMARY:Thought Bubble: Values Activity [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454955
+X-ALT-DESC;FMTTYPE=text/html:<p>Students will complete a short reflection o
+ n Gradescope.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Question:&nbsp\;</p>\n<p><spa
+ n>Name one of your top five values. What are the early warning indicators 
+ or signs that you’re living outside this value?</span></p>\n<p><span>You
+  must write at least 2 complete sentences and clearly identify indicators\
+ , signs\, or behaviors that are in misalignment with living your value in 
+ order to receive full credit.</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T160000Z
+UID:event-assignment-10454941
+DTSTART:20250917T160000Z
+DTEND:20250917T160000Z
+CLASS:PUBLIC
+DESCRIPTION:See Project 3: App Development lesson on [Edstem] (https://edst
+ em.org/us) for details
+SEQUENCE:0
+SUMMARY:Project 3: App Sales Pitch [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454941
+X-ALT-DESC;FMTTYPE=text/html:<p>See Project 3: App Development lesson on <a
+  class="inline_disabled" href="https://edstem.org/us" target="_blank">Edst
+ em</a> for details</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T233200Z
+UID:event-assignment-10525822
+DTSTART:20250917T220000Z
+DTEND:20250917T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Students will complete a short reflection on Gradescope. \n\n
+  \n\nQuestion: \n\nWhich statement resonated the most with you?\n\n( ) T
+ his is the identity that was most important to me through childhood\n( ) T
+ his is the identity I think of most when I’m in school\n( ) This is the 
+ identity I think of most as an Allen Scholars student\n( ) This is the ide
+ ntity has presented the biggest challenge for me\n( ) This is the identity
+  has given me the most pride\n( ) This is the identity that I know the lea
+ st about\n( ) This is the identity that most closely connects me to others
+ \n( ) This is the identity that other people define me by the most\n( ) Th
+ is is the identity that I define myself by the most\n\nWrite at least one 
+ sentence as to **why** it resonated the most.
+SEQUENCE:0
+SUMMARY:Thought Bubble: Multiple Identities Reflection [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10525822
+X-ALT-DESC;FMTTYPE=text/html:<p>Students will complete a short reflection o
+ n Gradescope.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Question:&nbsp\;</p>\n<p>Whic
+ h statement resonated the most with you?</p>\n<p>( ) This is the identity 
+ that was most important to me through childhood<br>( ) This is the identit
+ y I think of most when I’m in school<br>( ) This is the identity I think
+  of most as an Allen Scholars student<br>( ) This is the identity has pres
+ ented the biggest challenge for me<br>( ) This is the identity has given m
+ e the most pride<br>( ) This is the identity that I know the least about<b
+ r>( ) This is the identity that most closely connects me to others<br>( ) 
+ This is the identity that other people define me by the most<br>( ) This i
+ s the identity that I define myself by the most</p>\n<p>Write at least one
+  sentence as to **why** it resonated the most.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T162800Z
+UID:event-assignment-10454961
+DTSTART:20250918T220000Z
+DTEND:20250918T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Week 4: Thursday\, September 18th\n\nExit Ticket: Degree Planni
+ ng Worksheet\n\nStudents will complete the assignment during class and upl
+ oad their first year plan with the following quarters completed: \n\n* Au
+ tumn 2025\n\n* Winter 2026\n\n* Spring 2026
+SEQUENCE:0
+SUMMARY:Week 4 Afternoon Exit Ticket: Degree Planning [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454961
+X-ALT-DESC;FMTTYPE=text/html:<p>Week 4: Thursday\, September 18th</p>\n<p><
+ strong>Exit Ticket:</strong> Degree Planning Worksheet</p>\n<p>Students wi
+ ll complete the assignment during class and upload their first year plan w
+ ith the following quarters completed:&nbsp\;</p>\n<ul>\n<li>Autumn 2025</l
+ i>\n<li>Winter 2026</li>\n<li>Spring 2026</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T160000Z
+UID:event-assignment-10454944
+DTSTART:20250919T160000Z
+DTEND:20250919T160000Z
+CLASS:PUBLIC
+DESCRIPTION:See Project 4: Physical Computing lesson on [Edstem] (https://e
+ dstem.org/us) for details
+SEQUENCE:0
+SUMMARY:Project 4: Physical Computing Planning [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454944
+X-ALT-DESC;FMTTYPE=text/html:<p>See Project 4: Physical Computing lesson on
+  <a class="inline_disabled" href="https://edstem.org/us" target="_blank">E
+ dstem</a> for details</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T231400Z
+UID:event-assignment-10454946
+DTSTART:20250919T160000Z
+DTEND:20250919T160000Z
+CLASS:PUBLIC
+DESCRIPTION:See Project 3: Physical Computing lesson on [Edstem] (https://e
+ dstem.org/us)[] (https://edstem.org/us) for details
+SEQUENCE:0
+SUMMARY:Project 4: Physical Computing Tutorials [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454946
+X-ALT-DESC;FMTTYPE=text/html:<p>See Project 3: Physical Computing lesson on
+  <a class="inline_disabled external" href="https://edstem.org/us" target="
+ _blank"><span>Edstem</span></a><a class="inline_disabled external" href="h
+ ttps://edstem.org/us" target="_blank"></a> for details</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T160000Z
+UID:event-assignment-10454943
+DTSTART:20250919T190000Z
+DTEND:20250919T190000Z
+CLASS:PUBLIC
+DESCRIPTION:See Project 4: Physical Computing lesson on [Edstem] (https://e
+ dstem.org/us) for details
+SEQUENCE:0
+SUMMARY:Project 4: Physical Computing Hackathon [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454943
+X-ALT-DESC;FMTTYPE=text/html:<p>See Project 4: Physical Computing lesson on
+  <a class="inline_disabled" href="https://edstem.org/us" target="_blank">E
+ dstem</a> for details</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250827T020600Z
+UID:event-calendar-event-4436925
+DTSTART:20250919T223000Z
+DTEND:20250919T232000Z
+CLASS:PUBLIC
+LOCATION:CSE 464 (Matt's Office)\, in-person only
+SEQUENCE:0
+SUMMARY:Matt's Open Office Hours [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#calendar_event_4436925
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T220300Z
+UID:event-assignment-10454925
+DTSTART:20250920T000000Z
+DTEND:20250920T000000Z
+CLASS:PUBLIC
+DESCRIPTION:************\nIntroduction\n************\n\nThroughout the 4 we
+ eks of summer bridge\, you will explore important aspects of navigating co
+ llege\, preparing for your career and reflecting on your personal identity
+ . At the same time\, you will also be creating a personal website during y
+ our morning computer science course. \n\nFor your final project\, you’l
+ l bring this all together by creating a Photo Journal that lives on your p
+ ersonal website. This project highlights who you are\, what you’ve learn
+ ed\, and where you’re headed next. It connects the main themes from our 
+ College Navigation class: community building\, college toolkit\, career pr
+ eparation\, and personal reflection. This is your opportunity to be as cre
+ ative as you’d like in a meaningful way.\n\nWe are not grading your code
+ \, only on the content that you present. Review the grading rubric to see 
+ what is expected and how this assignment will be graded.\n\nPrivacy Notice
+ :\n\nYou have the option to keep it unlisted (for example\, not linking it
+  from your homepage). This makes it more private\, but not completely priv
+ ate as it’s possible that someone could find it through a very specific 
+ Google search. \n\nPlease think carefully about how much personal informa
+ tion you want to share. If your entry includes a photo with other people\,
+  make sure you have their permission to post it. \n\n****[Challenge your 
+ coding skills] Alternatively\, you can password lock your assignment and o
+ nly provide the password to the grader when submitting your assignment. Pl
+ ease see the instruction in the [UW-IT website for Basic Password Protecti
+ on.] (https://uwconnect.uw.edu/it?id=kb_article_view&sysparm_article=KB003
+ 4452)\n\nOnce your assignment is fully graded\, you’re welcome to delete
+  or remove the journal entry from your site. \n\n**********\nObjectives\n
+ **********\n\nStudents will be able to utilize the skills they have learne
+ d in the Computer Science portion of Summer Bridge in creating a personal 
+ website and combine it with the information that they have learned during 
+ the College Readiness & Navigation course. This will be a great chance to 
+ really challenge themselves with exploring different features of programmi
+ ng on their website. \n\nStudents can be as creative for this assignment 
+ as long as they meet all the grading criteria. \n\n********\nTimeline\n**
+ ******\n\nWe recommend you to work on this project at the end of each week
+ \, and not wait until the end of the course as there will be lots of other
+  projects/papers that will be assigned. \n\nThere will be a mid-point che
+ ckpoint during the very beginning of week 3 (Tuesday\, September 9)\, wher
+ e students will be expected to have finished at least one project for one 
+ week. \n\n************\nInstructions\n************\n\nYou will create one
+  journal entry on your personal website for each of the four course themes
+ :\n\nWeek 1: Cohort & Campus Connection \n\n* Create meaningful connectio
+ ns among cohort peers\, Allen Scholars Program staff\, and the university 
+ community.\n\nWeek 2: College Toolkit \n\n* Develop academic habits and i
+ dentify resources to help navigate the UW and Allen School\n\nWeek 3: Care
+ er Exploration & Preparation\n\n* Identify different academic and career p
+ aths that connect with their values\, interests\, and professional goals.\
+ n\nWeek 4: Personal Reflection \n\n* Examine core values\, social identit
+ ies and experiences and how they intersect with becoming a computer scient
+ ist/engineer\n\n \n\nAs a reminder\, these are the activities that are co
+ vered in each week that you can reference in your reflection:\n\n* Week 1:
+  Building Tours\, Little Bobby\, Story Behind Your Name\, Campus Scavenger
+  Hunt\, Lightning Talk\, Community Building Fun-gineering Activity.\n\n* W
+ eek 2: Time Management\, Instructional Center (IC) and Ethnic Cultural Cen
+ ter (ECC) visit\, Mental Health Resources\, Communication\, Financial Aid 
+ & Budgeting\, Commuting\, Faculty Panel\n\n* Week 3: Resume\, Researchers 
+ Lightning Talks\, LinkedIn\, Job Hunting Process\, Handshake\, Alumni Pane
+ l\n\n* Week 4: Values Activity\, Multiple Identities\, Degree Planning\, A
+ cademic Year Expectations\n\n \n\nYou can be as creative in your photo jo
+ urnal as long as you meet the following requirements for EACH entry: \n\n
+ * There is at least one photo \n\n*\n\n* This photo must be related to th
+ e theme of the week and it must be a photo you've taken.\n\n* Photos must 
+ be school appropriate. If in doubt\, choose another photo\n\n* If your pho
+ to includes other students\, be sure to have their permission to use the p
+ hoto\n\n* Write at least 1 sentence describing what the photo is.\n\n* Wri
+ te at least 5 complete sentences to tell us the story behind this photo an
+ d how it relates to the College Navigation themes of the week. These sente
+ nces should be detailed and personal to your experience. You can use the f
+ ollowing guiding questions:\n\n*\n\n* Why was this topic interesting/impor
+ tant to you?\n\n* How might you use the skills you learned this week durin
+ g the academic year? \n\n* What did this experience teach you? \n\n* How
+  did you feel throughout the week?\n\nDue: Friday\, September 19th at 5PM 
+ (LATE WORK WILL NOT BE ACCEPTED)\n\n********************\nSubmitting Your 
+ Work\n********************\n\nYou must make a copy of the [Photo Journal S
+ ubmission Template] (https://docs.google.com/document/u/0/d/1ezD5_-L_GbAJA
+ 1_veiuToVUQ2V0xASLkSo1JLda8knw/copy?usp=sharing) and add the following to 
+ the template document:\n\n* Link to each of your journal entries.\n\n* [If
+  applicable] Username & password if you chose to password lock your photo 
+ journal.\n\n* Screenshot of your whole journal entry for that week and pas
+ te in the correct week on the template. You will be graded based on your s
+ creenshot. It is your responsibility that your screenshot captures your fu
+ ll submission or you may lose points if we are unable to see all required 
+ components.\n\n[Click to view an example of an acceptable Photo Journal Su
+ bmission.] (https://docs.google.com/document/d/1vNBDIoVEg6Hso6v4eo-pkc8LCP
+ p3YxjSaijRZT9u24c/edit?usp=sharing)\n\n*******\nGrading\n*******\n\nThis f
+ inal project will be a total of 12 points. Please be sure to review the ru
+ bric carefully in order to meet all grading requirements.\n\nEach journal 
+ entry will be 3 points. (3 points * 4 entries = 12 points)\n\nPhoto Upload
+  - .5 points\n\n* .5 points: Student has a photo\n\n* 0 points: Student do
+ es not have a photo\n\nPhoto Caption - .5 points\n\n* .5 points: Student h
+ as a caption that describes what the photo is.\n\n* 0 points: Student is m
+ issing caption.\n\nReflection - 1 point\n\n* 1 point: Student has at least
+  5 complete sentences written\n\n* .5 points: Student has at least 3 compl
+ ete sentences written\n\n* 0 points: Student has no reflection written or 
+ 3 or more sentences are incomplete\n\n* -0.25 points: Student has at least
+  3 spelling/grammar errors\n\nDepth of Reflection - 1 point\n\n* 1 point: 
+ Student clearly and thoughtfully connect to the weekly theme. Reflection i
+ s personal and original.\n\n* .5 points: Student addresses the weekly them
+ e\, but only provides basic or general connection. Reflection is present b
+ ut is shallow or underdeveloped. OR Student does not clearly address the w
+ eekly theme\, but reflection is personal and original.\n\n* 0 points: Stud
+ ent has little to no personal reflection to the weekly theme.
+SEQUENCE:0
+SUMMARY:Culminating Final Project: Photo Journal [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454925
+X-ALT-DESC;FMTTYPE=text/html:<h1><span>Introduction</span></h1>\n<p><span>T
+ hroughout the 4 weeks of summer bridge\, you will explore important aspect
+ s of navigating college\, preparing for your career and reflecting on your
+  personal identity. At the same time\, you will also be creating a persona
+ l website during your morning computer science course.&nbsp\;</span></p>\n
+ <p><span>For your final project\, you’ll bring this all together by crea
+ ting a Photo Journal that lives on your personal website. This project hig
+ hlights who you are\, what you’ve learned\, and where you’re headed ne
+ xt. It connects the main themes from our College Navigation class: communi
+ ty building\, college toolkit\, career preparation\, and personal reflecti
+ on. This is your opportunity to be as creative as you’d like in a meanin
+ gful way.</span></p>\n<p><span>We are not grading your code\, only on the 
+ content that you present. Review the grading rubric to see what is expecte
+ d and how this assignment will be graded.</span></p>\n<p><strong>Privacy N
+ otice:</strong></p>\n<p><span>You have the option to keep it unlisted (for
+  example\, not linking it from your homepage). This makes it more private\
+ , but not completely private as it’s possible that someone could find it
+  through a very specific Google search.&nbsp\;</span></p>\n<p><span>Please
+  think carefully about how much personal information you want to share. If
+  your entry includes a photo with other people\, make sure you have their 
+ permission to post it.&nbsp\;</span></p>\n<p><span>****[Challenge your cod
+ ing skills] Alternatively\, you can password lock your assignment and only
+  provide the password to the grader when submitting your assignment. Pleas
+ e see the instruction in the </span><a href="https://uwconnect.uw.edu/it?i
+ d=kb_article_view&amp\;sysparm_article=KB0034452"><span>UW-IT website for 
+ Basic Password Protection.</span></a></p>\n<p><span>Once your assignment i
+ s fully graded\, you’re welcome to delete or remove the journal entry fr
+ om your site.&nbsp\;</span></p>\n<h1><span>Objectives</span></h1>\n<p><spa
+ n>Students will be able to utilize the skills they have learned in the Com
+ puter Science portion of Summer Bridge in creating a personal website and 
+ combine it with the information that they have learned during the College 
+ Readiness &amp\; Navigation course. This will be a great chance to really 
+ challenge themselves with exploring different features of programming on t
+ heir website.&nbsp\;</span></p>\n<p><span>Students can be as creative for 
+ this assignment as long as they meet all the grading criteria.&nbsp\;</spa
+ n></p>\n<h1><span>Timeline</span></h1>\n<p><span>We recommend you to work 
+ on this project at the end of each week\, and not wait until the end of th
+ e course as there will be lots of other projects/papers that will be assig
+ ned.&nbsp\;</span></p>\n<p><span>There will be a mid-point checkpoint duri
+ ng the very beginning of week 3 (Tuesday\, September 9)\, where students w
+ ill be expected to have finished at least one project for one week.&nbsp\;
+ </span></p>\n<h1><span>Instructions</span></h1>\n<p><span>You will create 
+ one journal entry on your personal website for each of the four course the
+ mes:</span></p>\n<p><strong>Week 1: Cohort &amp\; Campus Connection</stron
+ g><span>&nbsp\;</span></p>\n<ul>\n<li aria-level="1"><span>Create meaningf
+ ul connections among cohort peers\, Allen Scholars Program staff\, and the
+  university community.</span></li>\n</ul>\n<p><strong>Week 2: College Tool
+ kit&nbsp\;</strong></p>\n<ul>\n<li aria-level="1"><span>Develop academic h
+ abits and identify resources to help navigate the UW and Allen School</spa
+ n></li>\n</ul>\n<p><strong>Week 3: Career Exploration &amp\; Preparation</
+ strong></p>\n<ul>\n<li aria-level="1"><span>Identify different academic an
+ d career paths that connect with their values\, interests\, and profession
+ al goals.</span></li>\n</ul>\n<p><strong>Week 4: Personal Reflection&nbsp\
+ ;</strong></p>\n<ul>\n<li aria-level="1"><span>Examine core values\, socia
+ l identities and experiences and how they intersect with becoming a comput
+ er scientist/engineer</span></li>\n</ul>\n<p>&nbsp\;</p>\n<p><span>As a re
+ minder\, these are the activities that are covered in each week that you c
+ an reference in your reflection:</span></p>\n<ul>\n<li aria-level="1"><str
+ ong>Week 1:</strong><span> Building Tours\, Little Bobby\, Story Behind Yo
+ ur Name\, Campus Scavenger Hunt\, Lightning Talk\, Community Building Fun-
+ gineering Activity.</span></li>\n<li aria-level="1"><strong>Week 2:</stron
+ g><span> Time Management\, Instructional Center (IC) and Ethnic Cultural C
+ enter (ECC) visit\, Mental Health Resources\, Communication\, Financial Ai
+ d &amp\; Budgeting\, Commuting\, Faculty Panel</span></li>\n<li aria-level
+ ="1"><strong>Week 3:</strong><span> Resume\, Researchers Lightning Talks\,
+  LinkedIn\, Job Hunting Process\, Handshake\, Alumni Panel</span><span><br
+ ></span></li>\n<li aria-level="1"><strong>Week 4:</strong><span> Values Ac
+ tivity\, Multiple Identities\, Degree Planning\, Academic Year Expectation
+ s</span></li>\n</ul>\n<p>&nbsp\;</p>\n<p><span>You can be as creative in y
+ our photo journal as long as you meet the following requirements for </spa
+ n><strong>EACH</strong><span> entry:&nbsp\;</span><strong></strong></p>\n<
+ ul>\n<li aria-level="1"><strong>There is at least one photo&nbsp\;</strong
+ ></li>\n</ul>\n<ul>\n<li style="list-style-type: none\;">\n<ul>\n<li aria-
+ level="1"><span>This photo must be related to the theme of the week and it
+  must be a photo you've taken.</span></li>\n<li aria-level="1"><span>Photo
+ s must be school appropriate. If in doubt\, choose another photo</span></l
+ i>\n<li aria-level="1"><span>If your photo includes other students\, be su
+ re to have their permission to use the photo</span></li>\n</ul>\n</li>\n<l
+ i aria-level="1"><strong>Write at least 1 sentence describing what the pho
+ to is.</strong></li>\n<li aria-level="1"><strong>Write at least 5 complete
+  sentences to tell us the story behind this photo and how it relates to th
+ e College Navigation themes of the week. These sentences should be detaile
+ d and personal to your experience. You can use the following guiding quest
+ ions:</strong></li>\n</ul>\n<ul>\n<li style="list-style-type: none\;">\n<u
+ l>\n<li aria-level="1"><span>Why was this topic interesting/important to y
+ ou?</span></li>\n<li aria-level="1"><span>How might you use the skills you
+  learned this week during the academic year?&nbsp\;</span></li>\n<li aria-
+ level="1"><span>What did this experience teach you?&nbsp\;</span></li>\n<l
+ i aria-level="1"><span>How did you feel throughout the week?</span></li>\n
+ </ul>\n</li>\n</ul>\n<p><strong>Due: Friday\, September 19th at 5PM </stro
+ ng><strong><i>(LATE WORK WILL NOT BE ACCEPTED)</i></strong></p>\n<h1><span
+ >Submitting Your Work</span></h1>\n<p><span>You must make a copy of the </
+ span><a href="https://docs.google.com/document/u/0/d/1ezD5_-L_GbAJA1_veiuT
+ oVUQ2V0xASLkSo1JLda8knw/copy?usp=sharing"><span>Photo Journal Submission T
+ emplate</span></a><span> and add the following to the template document:</
+ span></p>\n<ol>\n<li aria-level="1"><span>Link to </span><strong>each</str
+ ong><span> of your journal entries.</span></li>\n<li aria-level="1"><span>
+ [If applicable] Username &amp\; password if you chose to password lock you
+ r photo journal.</span></li>\n<li aria-level="1"><span>Screenshot of your 
+ </span><strong>whole journal entry for that week</strong><span> and paste 
+ in the correct week on the template. </span><strong>You will be graded bas
+ ed on your screenshot.</strong><span> It is your responsibility that your 
+ screenshot captures your full submission or you may lose points if we are 
+ unable to see all required components.</span></li>\n</ol>\n<p><a href="htt
+ ps://docs.google.com/document/d/1vNBDIoVEg6Hso6v4eo-pkc8LCPp3YxjSaijRZT9u2
+ 4c/edit?usp=sharing"><span>Click to view an example of an acceptable Photo
+  Journal Submission.</span></a></p>\n<h1><span>Grading</span></h1>\n<p><sp
+ an>This final project will be a total of </span><strong>12 points.</strong
+ ><span> Please be sure to review the rubric carefully in order to meet all
+  grading requirements.</span></p>\n<p><span>Each journal entry will be 3 p
+ oints. (3 points * 4 entries = 12 points)</span></p>\n<p><strong>Photo Upl
+ oad</strong><span> - .5 points</span></p>\n<ul>\n<li aria-level="1"><span>
+ .5 points: Student has a photo</span></li>\n<li aria-level="1"><span>0 poi
+ nts: Student does not have a photo</span></li>\n</ul>\n<p><strong>Photo Ca
+ ption</strong><span> - .5 points</span></p>\n<ul>\n<li aria-level="1"><spa
+ n>.5 points: Student has a caption that describes what the photo is.</span
+ ></li>\n<li aria-level="1"><span>0 points: Student is missing caption.</sp
+ an></li>\n</ul>\n<p><strong>Reflection</strong><span> - 1 point</span></p>
+ \n<ul>\n<li aria-level="1"><span>1 point: Student has at least 5 complete 
+ sentences written</span></li>\n<li aria-level="1"><span>.5 points: Student
+  has at least 3 complete sentences written</span></li>\n<li aria-level="1"
+ ><span>0 points: Student has no reflection written or 3 or more sentences 
+ are incomplete</span></li>\n<li aria-level="1"><span>-0.25 points: Student
+  has at least 3 spelling/grammar errors</span></li>\n</ul>\n<p><strong>Dep
+ th of Reflection</strong><span> - 1 point</span></p>\n<ul>\n<li aria-level
+ ="1"><span>1 point: Student clearly and thoughtfully connect to the weekly
+  theme. Reflection is personal and original.</span></li>\n<li aria-level="
+ 1"><span>.5 points: Student addresses the weekly theme\, but only provides
+  basic or general connection. Reflection is present but is shallow or unde
+ rdeveloped. OR Student does not clearly address the weekly theme\, but ref
+ lection is personal and original.</span></li>\n<li aria-level="1"><span>0 
+ points: Student has little to no personal reflection to the weekly theme.<
+ /span></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T162700Z
+UID:event-assignment-10454927
+DTSTART:20250920T000000Z
+DTEND:20250920T000000Z
+CLASS:PUBLIC
+DESCRIPTION:For this assignment\, you will be writing a letter to yourself.
+  Reflecting on where you have been\, where you are now\, and where you are
+  going can help inform the choices you will make and goals you want to pur
+ sue during your time at UW. Each of you will submit a letter where at the 
+ end of your first year (Spring 2026)\, you will receive your letter back.\
+ n\nIn your letter to yourself\, please include EACH of the below items:\n\
+ n* Identifying your Values\n\n* What were the top five (5) values that eme
+ rged for you from the core values activity? What themes did you see among 
+ these values? Why do you feel these values are significant to you / resona
+ ted most for you?\n\n* Connecting your Values to your UW Experience\n\n* H
+ ow do you think your values will show up in your UW and Allen School exper
+ ience?\nName one goal for the Autumn Quarter and one goal for the full yea
+ r - big or small\, easy or hard - and talk about how your goals are connec
+ ted to your values.\n\n* Reflecting on your Past\, Present\, & Future Self
+ \n\n* What do you want to remember about this moment in time and what you 
+ would want to tell yourself at the end of your freshman year?\nBelow are s
+ ome guiding questions to help with your reflection:\n\n* What identity is 
+ most important to you / you are most proud of in this moment and why? \n\
+ n* What are you excited\, anxious\, worried about and why?\n\n* Name a cha
+ llenge to one of your goals. What or who will help you succeed?\n\n* Do yo
+ u have any conflicting priorities for your college goals (ie: wanting to g
+ raduate early but also wanting to study too many different subjects\; bala
+ ncing family expectations with your own interests\, etc)?\n\n* Image of yo
+ ur Top 5 Value Cards\n\n* Take a picture of your top 5 value cards from th
+ e core values activity and copy and paste the image in your letter \n\nLE
+ TTER REQUIREMENTS\n\nYour letter to self should be roughly 1-page\, writte
+ n in letter format which includes your name and date. \n\nRUBRIC - 5 POIN
+ TS\n\n* 1 Point: Identifying Values\nStudent discusses their five values (
+ 5) and why these top five values emerged\n\n* 2 Points: Connecting Values 
+ to UW Experience\nStudent provides two (2) goals that they have - one goal
+  for Autumn quarter and one goal for the full-year and how their goals con
+ nect with their core values\n\n* 1 Point: Past\, Present & Future Self Ref
+ lection\nStudent provides a reflection of what they would want to tell the
+ ir future self\n\n* 1 Point: Image of Top Five Values Cards\nStudent inclu
+ des an image of their top five (5) values cards used for the in-class acti
+ vity
+SEQUENCE:0
+SUMMARY:Letter to Self [CSE 195 A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454927
+X-ALT-DESC;FMTTYPE=text/html:<p><span>For this assignment\, you will be wri
+ ting a letter to yourself. Reflecting on where you have been\, where you a
+ re now\, and where you are going can help inform the choices you will make
+  and goals you want to pursue during your time at UW. Each of you will sub
+ mit a letter where at the end of your first year (Spring 2026)\, you will 
+ receive your letter back.</span></p>\n<p><em style="font-family: inherit\;
+  font-size: 1rem\;">In your letter to yourself\, please include <strong>EA
+ CH</strong> of the below items:</em></p>\n<ul>\n<li><em><strong>Identifyin
+ g your Values</strong></em>\n<ul>\n<li><em><span>What were the top five (5
+ ) values that emerged for you from the core values activity? What themes d
+ id you see among these values? Why do you feel these values are significan
+ t to you / resonated most for you?</span><strong></strong></em><br><em><st
+ rong></strong><strong></strong></em></li>\n</ul>\n</li>\n<li><em><strong>C
+ onnecting your Values to your UW Experience</strong></em>\n<ul>\n<li><em>H
+ ow do you think your values will show up in your UW and Allen School exper
+ ience? </em><br><em>Name<span style="text-decoration: underline\;"> one go
+ al for the Autumn Quarter</span> and <span style="text-decoration: underli
+ ne\;">one goal for the full year</span> - big or small\, easy or hard - an
+ d talk about how your goals are connected to your values.</em></li>\n</ul>
+ \n</li>\n<li><em><strong>Reflecting on your Past\, Present\, &amp\; Future
+  Self</strong></em>\n<ul>\n<li><em><span>What do you want to remember abou
+ t this moment in time and what you would want to tell yourself at the end 
+ of your freshman year? <br>Below are some guiding questions to help with y
+ our reflection:</span></em><br>\n<ul>\n<li><em><span>What identity is most
+  important to you / you are most proud of in this moment and why?&nbsp\;</
+ span></em></li>\n<li><em><span>What are you excited\, anxious\, worried ab
+ out and why?</span></em></li>\n<li><em><span>Name a challenge to one of yo
+ ur goals. What or who will help you succeed?</span></em></li>\n<li><em><sp
+ an>Do you have any conflicting priorities for your college goals (ie: want
+ ing to graduate early but also wanting to study too many different subject
+ s\; balancing family expectations with your own interests\, etc)?</span></
+ em></li>\n</ul>\n</li>\n</ul>\n</li>\n<li><em><strong>Image of your Top 5 
+ Value Cards</strong></em>\n<ul>\n<li><em>Take a picture of your top 5 valu
+ e cards from the core values activity and copy and paste the image in your
+  letter&nbsp\;</em></li>\n</ul>\n</li>\n</ul>\n<p><strong>LETTER REQUIREME
+ NTS</strong></p>\n<p>Your letter to self should be roughly 1-page\, writte
+ n in letter format which includes your name and date.&nbsp\;</p>\n<p><stro
+ ng>RUBRIC - 5 POINTS</strong></p>\n<ul>\n<li><strong>1 Point: Identifying 
+ Values</strong><br>Student discusses their five values (5) and why these t
+ op five values emerged</li>\n<li><strong>2 Points: Connecting Values to UW
+  Experience</strong><br>Student provides two (2) goals that they have - on
+ e goal for Autumn quarter and one goal for the full-year and how their goa
+ ls connect with their core values</li>\n<li><strong>1 Point: Past\, Presen
+ t &amp\; Future Self Reflection<br></strong>Student provides a reflection 
+ of what they would want to tell their future self</li>\n<li><strong>1 Poin
+ t: Image of Top Five Values Cards</strong><br>Student includes an image of
+  their top five (5) values cards used for the in-class activity</li>\n</ul
+ >
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T160000Z
+UID:event-assignment-10454945
+DTSTART:20250920T000000Z
+DTEND:20250920T000000Z
+CLASS:PUBLIC
+DESCRIPTION:See Project 4: Physical Computing lesson on [Edstem] (https://e
+ dstem.org/us) for details\n\n 
+SEQUENCE:0
+SUMMARY:Project 4: Physical Computing Presentation and Reflection [CSE 195 
+ A]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_184832
+ 2&month=09&year=2025#assignment_10454945
+X-ALT-DESC;FMTTYPE=text/html:<p>See Project 4: Physical Computing lesson on
+  <a class="inline_disabled" href="https://edstem.org/us" target="_blank">E
+ dstem</a> for details</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T065700Z
+UID:event-assignment-10375716
+DTSTART:20250924T150000Z
+DTEND:20250924T150000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:MM Intro survey [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=09&year=2025#assignment_10375716
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T195500Z
+UID:event-assignment-10375721
+DTSTART:20250924T150000Z
+DTEND:20250924T150000Z
+CLASS:PUBLIC
+DESCRIPTION:Read the syllabus and you will know how to complete the quiz.
+SEQUENCE:0
+SUMMARY:Syllabus reading quiz [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=09&year=2025#assignment_10375721
+X-ALT-DESC;FMTTYPE=text/html:<p>Read the syllabus and you will know how to 
+ complete the quiz.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T180400Z
+UID:event-assignment-10375723
+DTSTART:20250926T180000Z
+DTEND:20250926T180000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:MM Section 1.1 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=09&year=2025#assignment_10375723
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T234600Z
+UID:event-assignment-10728723
+DTSTART:20250926T190000Z
+DTEND:20250926T190000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 1 check in pre-work on [Ed] (https://edstem.o
+ rg/us/)
+SEQUENCE:0
+SUMMARY:Week 1 check in pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=09&year=2025#assignment_10728723
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 1 check in pre-work on <a
+  class="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed<
+ /a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728722
+DTSTART:20250927T050000Z
+DTEND:20250927T050000Z
+CLASS:PUBLIC
+DESCRIPTION:See the Check In Information slide on [Ed] (https://edstem.org/
+ us/). 
+SEQUENCE:0
+SUMMARY:Week 1 check in meeting [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=09&year=2025#assignment_10728722
+X-ALT-DESC;FMTTYPE=text/html:<p>See the Check In Information slide on <a cl
+ ass="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed</a>
+ .&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T180500Z
+UID:event-assignment-10375724
+DTSTART:20250929T180000Z
+DTEND:20250929T180000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:MM Section 1.2 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=09&year=2025#assignment_10375724
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728739
+DTSTART:20250930T050000Z
+DTEND:20250930T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 2 reflection as part of the Week 2  reflecti
+ on and workshop pre-work on [Ed] (https://edstem.org/us/)
+SEQUENCE:0
+SUMMARY:Week 2 Reflection [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=09&year=2025#assignment_10728739
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 2 reflection as part of t
+ he Week 2 &nbsp\;reflection and workshop pre-work on <a class="inline_disa
+ bled" href="https://edstem.org/us/" target="_blank">Ed</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728744
+DTSTART:20250930T050000Z
+DTEND:20250930T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 2 workshop pre-work on [Ed] (https://edstem.o
+ rg/us)
+SEQUENCE:0
+SUMMARY:Week 2 workshop pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=09&year=2025#assignment_10728744
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 2 workshop pre-work on <a
+  class="inline_disabled" href="https://edstem.org/us" target="_blank">Ed</
+ a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728743
+DTSTART:20250930T233000Z
+DTEND:20250930T233000Z
+CLASS:PUBLIC
+DESCRIPTION:Please see the Syllabus Required Coursework section for informa
+ tion about weekly quizzes in this class. Paper quizzes will be handed out 
+ during class and you will be expected to do these independently and turn t
+ hem in by the deadline via Gradescope. Other quizzes may be done using Gra
+ descope or Ed\, depending on the material.\n\n[Sample week 2 quiz] (https:
+ //docs.google.com/document/d/1TagCj7uxIlvmcumpJVEmhl11k1NfkoEq0DNbePwyCqg/
+ edit?usp=sharing) ([key] (https://docs.google.com/document/d/1AY1quhvbPqyj
+ S8KMG-6P379BEzDpTS1EOlxm6ZBF2MY/edit?usp=sharing))
+SEQUENCE:0
+SUMMARY:Week 2 quiz [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=09&year=2025#assignment_10728743
+X-ALT-DESC;FMTTYPE=text/html:<p>Please see the Syllabus Required Coursework
+  section for information about weekly <strong>quizzes</strong> in this cla
+ ss. Paper quizzes will be handed out during class and you will be expected
+  to do these independently and turn them in by the deadline via Gradescope
+ . Other quizzes may be done using Gradescope or Ed\, depending on the mate
+ rial.</p>\n<p><a class="inline_disabled" href="https://docs.google.com/doc
+ ument/d/1TagCj7uxIlvmcumpJVEmhl11k1NfkoEq0DNbePwyCqg/edit?usp=sharing" tar
+ get="_blank">Sample week 2 quiz</a> (<a class="inline_disabled" href="http
+ s://docs.google.com/document/d/1AY1quhvbPqyjS8KMG-6P379BEzDpTS1EOlxm6ZBF2M
+ Y/edit?usp=sharing" target="_blank">key</a>)</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728742
+DTSTART:20251001T050000Z
+DTEND:20251001T050000Z
+CLASS:PUBLIC
+DESCRIPTION:You must be present have this to participation count\, but shou
+ ld do all of the work on this week's Ed lesson regardless.
+SEQUENCE:0
+SUMMARY:Week 2 class [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=09&year=2025#assignment_10728742
+X-ALT-DESC;FMTTYPE=text/html:<div class="description_content">\n<div class=
+ "long_description small_description">You must be present have this to part
+ icipation count\, but should do all of the work on this week's Ed lesson r
+ egardless.</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T180500Z
+UID:event-assignment-10375725
+DTSTART:20251001T180000Z
+DTEND:20251001T180000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:MM Section 2.1 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375725
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250922T232100Z
+UID:event-assignment-10375693
+DTSTART;VALUE=DATE;VALUE=DATE:20251001
+CLASS:PUBLIC
+DESCRIPTION:*\n\nFind\, if possible\, a linear system with 2 2 equations an
+ d 3 3 variables that is in echelon form AND that has exactly one solution.
+  If you give an example\, explain why your linear system has the desired p
+ roperties. If it is not possible\, explain why no such example exists. (Hi
+ nt: it may help to use the terminology of free variables/parameters in you
+ r answer.)\n\n*\n\nFind\, if possible\, a linear equation in 3 3 variables
+  that has [ 0 0 0 ] \\begin{bmatrix}\\0\\0\\end{bmatrix} \, [ 1 0 1 ] \\be
+ gin{bmatrix}1\\0\\1\\end{bmatrix} and [ 1 − 1 0 ] \\begin{bmatrix}1\\-1\
+ \0\\end{bmatrix} as solutions AND [ 0 3 − 3 ] \\begin{bmatrix} 0\\3\\-3\
+ \end{bmatrix} is not a solution. If you give an example\, explain why your
+  linear equation has the desired properties. If it is not possible\, expla
+ in why no such example exists. (Bonus question to think about (not to turn
+  in): what if you gave a linear system with 2 2 equations? or 3 3 equation
+ s?)\n\n*\n\nFind\, if possible\, a sequence of elementary operations that 
+ takes the augmented matrix [ − 1 0 1 0 0 1 0 2 0 4 − 1 1 ] \\left[\\be
+ gin{array}{ccc|c} -1 & 0 & 1& 0\\ 0 & 1& 0 & 2\\ 0 & 4 & -1 & 1 \\end{arra
+ y} \\right] to the augmented matrix [ 1 0 0 7 0 1 0 2 0 2 1 11 ] . \\left[
+ \\begin{array}{ccc|c} 1 & 0 & 0& 7\\ 0 & 1& 0 & 2\\ 0 & 2 & 1 & 11 \\end{a
+ rray} \\right]. If you give a sequence of elementary operations\, explain 
+ why they have the desired properties. If it is not possible\, explain why 
+ no such sequence exists.
+SEQUENCE:0
+SUMMARY:Conceptual Problems 1 -- submit in Gradescope [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375693
+X-ALT-DESC;FMTTYPE=text/html:<ol>\n<li>\n<p>Find\, if possible\, a linear s
+ ystem with <math xmlns="http://www.w3.org/1998/Math/MathML" display="inlin
+ e"> <semantics> <mn>2</mn> <annotation encoding="application/x-tex">2</ann
+ otation> </semantics> </math> equations and <math xmlns="http://www.w3.org
+ /1998/Math/MathML" display="inline"> <semantics> <mn>3</mn> <annotation en
+ coding="application/x-tex">3</annotation> </semantics> </math> variables t
+ hat is in echelon form AND that has <em>exactly</em> one solution. If you 
+ give an example\, explain why your linear system has the desired propertie
+ s. If it is not possible\, explain why no such example exists. (Hint: it m
+ ay help to use the terminology of free variables/parameters in your answer
+ .)</p>\n</li>\n<li>\n<p>Find\, if possible\, a linear equation in <math xm
+ lns="http://www.w3.org/1998/Math/MathML" display="inline"> <semantics> <mn
+ >3</mn> <annotation encoding="application/x-tex">3</annotation> </semantic
+ s> </math> variables that has <math xmlns="http://www.w3.org/1998/Math/Mat
+ hML" display="inline"> <semantics> <mrow> <mo form="prefix" stretchy="true
+ ">[</mo> <mtable> <mtr> <mtd style="text-align: center\;" columnalign="cen
+ ter"><mn>0</mn></mtd> </mtr> <mtr> <mtd style="text-align: center\;" colum
+ nalign="center"> <mn>0</mn> </mtd> </mtr> <mtr> <mtd style="text-align: ce
+ nter\;" columnalign="center"> <mn>0</mn> </mtd> </mtr> </mtable> <mo form=
+ "postfix" stretchy="true">]</mo> </mrow> <annotation encoding="application
+ /x-tex">\\begin{bmatrix}\\0\\0\\end{bmatrix}</annotation> </semantics> </m
+ ath>\, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"> 
+ <semantics> <mrow> <mo form="prefix" stretchy="true">[</mo> <mtable> <mtr>
+  <mtd style="text-align: center\;" columnalign="center"> <mn>1</mn> </mtd>
+  </mtr> <mtr> <mtd style="text-align: center\;" columnalign="center"> <mn>
+ 0</mn> </mtd> </mtr> <mtr> <mtd style="text-align: center\;" columnalign="
+ center"> <mn>1</mn> </mtd> </mtr> </mtable> <mo form="postfix" stretchy="t
+ rue">]</mo> </mrow> <annotation encoding="application/x-tex">\\begin{bmatr
+ ix}1\\0\\1\\end{bmatrix}</annotation> </semantics> </math> and <math xmlns
+ ="http://www.w3.org/1998/Math/MathML" display="inline"> <semantics> <mrow>
+  <mo form="prefix" stretchy="true">[</mo> <mtable> <mtr> <mtd style="text-
+ align: center\;" columnalign="center"> <mn>1</mn> </mtd> </mtr> <mtr> <mtd
+  style="text-align: center\;" columnalign="center"> <mi>−</mi> <mn>1</mn
+ > </mtd> </mtr> <mtr> <mtd style="text-align: center\;" columnalign="cente
+ r"> <mn>0</mn> </mtd> </mtr> </mtable> <mo form="postfix" stretchy="true">
+ ]</mo> </mrow> <annotation encoding="application/x-tex">\\begin{bmatrix}1\
+ \-1\\0\\end{bmatrix}</annotation> </semantics> </math> as solutions AND <m
+ ath xmlns="http://www.w3.org/1998/Math/MathML" display="inline"> <semantic
+ s> <mrow> <mo form="prefix" stretchy="true">[</mo> <mtable> <mtr> <mtd sty
+ le="text-align: center\;" columnalign="center"> <mn>0</mn> </mtd> </mtr> <
+ mtr> <mtd style="text-align: center\;" columnalign="center"> <mn>3</mn> </
+ mtd> </mtr> <mtr> <mtd style="text-align: center\;" columnalign="center"> 
+ <mi>−</mi> <mn>3</mn> </mtd> </mtr> </mtable> <mo form="postfix" stretch
+ y="true">]</mo> </mrow> <annotation encoding="application/x-tex">\\begin{b
+ matrix} 0\\3\\-3\\end{bmatrix}</annotation> </semantics> </math> is <em>no
+ t</em> a solution. If you give an example\, explain why your linear equati
+ on has the desired properties. If it is not possible\, explain why no such
+  example exists. (<em>Bonus question to think about (not to turn in): what
+  if you gave a linear system with <math xmlns="http://www.w3.org/1998/Math
+ /MathML" display="inline"> <semantics> <mn>2</mn> <annotation encoding="ap
+ plication/x-tex">2</annotation> </semantics> </math> equations? or <math x
+ mlns="http://www.w3.org/1998/Math/MathML" display="inline"> <semantics> <m
+ n>3</mn> <annotation encoding="application/x-tex">3</annotation> </semanti
+ cs> </math> equations?</em>)</p>\n</li>\n<li>\n<p>Find\, if possible\, a s
+ equence of elementary operations that takes the augmented matrix <math xml
+ ns="http://www.w3.org/1998/Math/MathML" display="block"> <semantics> <mrow
+ > <mo form="prefix" stretchy="true">[</mo> <mtable> <mtr> <mtd style="text
+ -align: center\;" columnalign="center"> <mi>−</mi> <mn>1</mn> </mtd> <mt
+ d style="text-align: center\;" columnalign="center"> <mn>0</mn> </mtd> <mt
+ d style="text-align: center\;" columnalign="center"> <mn>1</mn> </mtd> <mt
+ d style="text-align: center\;" columnalign="center"> <mn>0</mn> </mtd> </m
+ tr> <mtr> <mtd style="text-align: center\;" columnalign="center"> <mn>0</m
+ n> </mtd> <mtd style="text-align: center\;" columnalign="center"> <mn>1</m
+ n> </mtd> <mtd style="text-align: center\;" columnalign="center"> <mn>0</m
+ n> </mtd> <mtd style="text-align: center\;" columnalign="center"> <mn>2</m
+ n> </mtd> </mtr> <mtr> <mtd style="text-align: center\;" columnalign="cent
+ er"> <mn>0</mn> </mtd> <mtd style="text-align: center\;" columnalign="cent
+ er"> <mn>4</mn> </mtd> <mtd style="text-align: center\;" columnalign="cent
+ er"> <mi>−</mi> <mn>1</mn> </mtd> <mtd style="text-align: center\;" colu
+ mnalign="center"> <mn>1</mn> </mtd> </mtr> </mtable> <mo form="postfix" st
+ retchy="true">]</mo> </mrow> <annotation encoding="application/x-tex">\\le
+ ft[\\begin{array}{ccc|c} -1 &amp\; 0 &amp\; 1&amp\; 0\\ 0 &amp\; 1&amp\; 0
+  &amp\; 2\\ 0 &amp\; 4 &amp\; -1 &amp\; 1 \\end{array} \\right]</annotatio
+ n> </semantics> </math> to the augmented matrix <math xmlns="http://www.w3
+ .org/1998/Math/MathML" display="block"> <semantics> <mrow> <mrow> <mo form
+ ="prefix" stretchy="true">[</mo> <mtable> <mtr> <mtd style="text-align: ce
+ nter\;" columnalign="center"> <mn>1</mn> </mtd> <mtd style="text-align: ce
+ nter\;" columnalign="center"> <mn>0</mn> </mtd> <mtd style="text-align: ce
+ nter\;" columnalign="center"> <mn>0</mn> </mtd> <mtd style="text-align: ce
+ nter\;" columnalign="center"> <mn>7</mn> </mtd> </mtr> <mtr> <mtd style="t
+ ext-align: center\;" columnalign="center"> <mn>0</mn> </mtd> <mtd style="t
+ ext-align: center\;" columnalign="center"> <mn>1</mn> </mtd> <mtd style="t
+ ext-align: center\;" columnalign="center"> <mn>0</mn> </mtd> <mtd style="t
+ ext-align: center\;" columnalign="center"> <mn>2</mn> </mtd> </mtr> <mtr> 
+ <mtd style="text-align: center\;" columnalign="center"> <mn>0</mn> </mtd> 
+ <mtd style="text-align: center\;" columnalign="center"> <mn>2</mn> </mtd> 
+ <mtd style="text-align: center\;" columnalign="center"> <mn>1</mn> </mtd> 
+ <mtd style="text-align: center\;" columnalign="center"> <mn>11</mn> </mtd>
+  </mtr> </mtable> <mo form="postfix" stretchy="true">]</mo> </mrow> <mi>.<
+ /mi> </mrow> <annotation encoding="application/x-tex">\\left[\\begin{array
+ }{ccc|c} 1 &amp\; 0 &amp\; 0&amp\; 7\\ 0 &amp\; 1&amp\; 0 &amp\; 2\\ 0 &am
+ p\; 2 &amp\; 1 &amp\; 11 \\end{array} \\right].</annotation> </semantics> 
+ </math> If you give a sequence of elementary operations\, explain why they
+  have the desired properties. If it is not possible\, explain why no such 
+ sequence exists.</p>\n</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T180700Z
+UID:event-assignment-10375726
+DTSTART:20251003T180000Z
+DTEND:20251003T180000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:MM Section 2.2 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375726
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T235300Z
+UID:event-assignment-10728741
+DTSTART:20251003T190000Z
+DTEND:20251003T190000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 2 check in pre-work on [Ed] (https://edstem.
+ org/us/)
+SEQUENCE:0
+SUMMARY:Week 2 check in pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728741
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Complete the Week 2&nbsp\;check in pr
+ e-work on <a class="inline_disabled" href="https://edstem.org/us/" target=
+ "_blank">Ed</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728740
+DTSTART:20251004T050000Z
+DTEND:20251004T050000Z
+CLASS:PUBLIC
+DESCRIPTION:See the Check In Information slide on [Ed] (https://edstem.org/
+ us). 
+SEQUENCE:0
+SUMMARY:Week 2 check in meeting [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728740
+X-ALT-DESC;FMTTYPE=text/html:<p>See the Check In Information slide on <a cl
+ ass="inline_disabled" href="https://edstem.org/us" target="_blank">Ed</a>.
+ &nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T180700Z
+UID:event-assignment-10375727
+DTSTART:20251006T180000Z
+DTEND:20251006T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 2.3 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375727
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728745
+DTSTART:20251007T050000Z
+DTEND:20251007T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 3 reflection as part of the Week 3 reflection
+  and workshop pre-work on [Ed] (https://edstem.org/us/)
+SEQUENCE:0
+SUMMARY:Week 3 Reflection [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728745
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 3 reflection as part of t
+ he Week 3 reflection and workshop pre-work on <a class="inline_disabled" h
+ ref="https://edstem.org/us/" target="_blank">Ed</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728750
+DTSTART:20251007T050000Z
+DTEND:20251007T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 3 workshop pre-work on [Ed] (https://edstem.o
+ rg/us/)
+SEQUENCE:0
+SUMMARY:Week 3 workshop pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728750
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Complete the Week 3 workshop pre-work
+  on <a class="inline_disabled" href="https://edstem.org/us/" target="_blan
+ k">Ed</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728749
+DTSTART:20251007T233000Z
+DTEND:20251007T233000Z
+CLASS:PUBLIC
+DESCRIPTION:Please see the Syllabus Required Coursework section for informa
+ tion about weekly quizzes in this class. Paper quizzes will be handed out 
+ during class and you will be expected to do these independently and turn t
+ hem in by the deadline via Gradescope. Other quizzes may be done using Gra
+ descope or Ed\, depending on the material.\n\n[Sample week 3 quiz] (https:
+ //docs.google.com/document/d/1k3kiHOK8mV-6cZUAJE9AFppYTatMK0B5263mtNiSgMA/
+ edit#) ([key] (https://docs.google.com/document/d/1IPA4YMNFshn-0hTO4eJHmoH
+ E8tWLKXmlXbbaDvXM6QI/edit))
+SEQUENCE:0
+SUMMARY:Week 3 quiz [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728749
+X-ALT-DESC;FMTTYPE=text/html:<p>Please see the Syllabus Required Coursework
+  section for information about weekly <strong>quizzes</strong> in this cla
+ ss. Paper quizzes will be handed out during class and you will be expected
+  to do these independently and turn them in by the deadline via Gradescope
+ . Other quizzes may be done using Gradescope or Ed\, depending on the mate
+ rial.</p>\n<p><a class="inline_disabled" href="https://docs.google.com/doc
+ ument/d/1k3kiHOK8mV-6cZUAJE9AFppYTatMK0B5263mtNiSgMA/edit#" target="_blank
+ ">Sample week 3 quiz</a> (<a class="inline_disabled" href="https://docs.go
+ ogle.com/document/d/1IPA4YMNFshn-0hTO4eJHmoHE8tWLKXmlXbbaDvXM6QI/edit" tar
+ get="_blank">key</a>)</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728748
+DTSTART:20251008T050000Z
+DTEND:20251008T050000Z
+CLASS:PUBLIC
+DESCRIPTION:You must be present have this to participation count\, but shou
+ ld do all of the work on this week's Ed lesson regardless.
+SEQUENCE:0
+SUMMARY:Week 3 class [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728748
+X-ALT-DESC;FMTTYPE=text/html:<div class="description_content">\n<div class=
+ "long_description small_description">You must be present have this to part
+ icipation count\, but should do all of the work on this week's Ed lesson r
+ egardless.</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250922T233200Z
+UID:event-assignment-10375694
+DTSTART;VALUE=DATE;VALUE=DATE:20251008
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Conceptual Problems 2 -- submit on Gradescope [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375694
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T180800Z
+UID:event-assignment-10375728
+DTSTART:20251010T180000Z
+DTEND:20251010T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 3.1 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375728
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T235400Z
+UID:event-assignment-10728747
+DTSTART:20251010T190000Z
+DTEND:20251010T190000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 3 check in pre-work on [Ed] (https://edstem.
+ org/us/)
+SEQUENCE:0
+SUMMARY:Week 3 check in pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728747
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 3&nbsp\;check
+  in pre-work on <a class="inline_disabled" href="https://edstem.org/us/" t
+ arget="_blank">Ed</a></span></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728746
+DTSTART:20251011T050000Z
+DTEND:20251011T050000Z
+CLASS:PUBLIC
+DESCRIPTION:See the Check In Information slide on [Ed] (https://edstem.org/
+ us/). 
+SEQUENCE:0
+SUMMARY:Week 3 check in meeting [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728746
+X-ALT-DESC;FMTTYPE=text/html:<p>See the Check In Information slide on <a cl
+ ass="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed</a>
+ .&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728751
+DTSTART:20251014T050000Z
+DTEND:20251014T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 4 reflection as part of the Week 4 reflection
+  and workshop pre-work on [Ed] (https://edstem.org/us/)
+SEQUENCE:0
+SUMMARY:Week 4 Reflection [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728751
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 4 reflection as part of t
+ he Week 4 reflection and workshop pre-work on <a class="inline_disabled" h
+ ref="https://edstem.org/us/" target="_blank">Ed</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728756
+DTSTART:20251014T050000Z
+DTEND:20251014T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 4 workshop pre-work on [Ed] (https://edstem.o
+ rg/us/)\n\n 
+SEQUENCE:0
+SUMMARY:Week 4 workshop pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728756
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 4 workshop pr
+ e-work on <a class="inline_disabled" href="https://edstem.org/us/" target=
+ "_blank">Ed</a></span></span></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728755
+DTSTART:20251014T233000Z
+DTEND:20251014T233000Z
+CLASS:PUBLIC
+DESCRIPTION:Please see the [Syllabus Required Coursework] (https://docs.goo
+ gle.com/document/d/1V229BGcOLLfv_1-NHMhjrwUajLP2oZWWyFRISvp7KYo/edit#headi
+ ng=h.1jw9rm5j70jk) section for information about weekly quizzes in this cl
+ ass. Paper quizzes will be handed out during class and you will be expecte
+ d to do these independently and turn them in by the deadline via Gradescop
+ e. Other quizzes may be done using Gradescope or Ed\, depending on the mat
+ erial.\n\n[Sample week 4 quiz] (https://docs.google.com/document/d/1EnSIbA
+ 4DVs485WIx0FMUXTaHc6qYlh-iuTanwuTs0Rg/edit?usp=sharing) ([key] (https://do
+ cs.google.com/document/d/1bgOQNE3wrMBXhOgX-Bf-fi9QKXfuF_OkbLKvihelC8E/edit
+ ))
+SEQUENCE:0
+SUMMARY:Week 4 quiz [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728755
+X-ALT-DESC;FMTTYPE=text/html:<p>Please see the <a class="inline_disabled" h
+ ref="https://docs.google.com/document/d/1V229BGcOLLfv_1-NHMhjrwUajLP2oZWWy
+ FRISvp7KYo/edit#heading=h.1jw9rm5j70jk" target="_blank">Syllabus Required 
+ Coursework</a> section for information about weekly <strong>quizzes</stron
+ g> in this class. Paper quizzes will be handed out during class and you wi
+ ll be expected to do these independently and turn them in by the deadline 
+ via Gradescope. Other quizzes may be done using Gradescope or Ed\, dependi
+ ng on the material.</p>\n<p><a class="inline_disabled" href="https://docs.
+ google.com/document/d/1EnSIbA4DVs485WIx0FMUXTaHc6qYlh-iuTanwuTs0Rg/edit?us
+ p=sharing" target="_blank">Sample week 4 quiz</a> (<a class="inline_disabl
+ ed" href="https://docs.google.com/document/d/1bgOQNE3wrMBXhOgX-Bf-fi9QKXfu
+ F_OkbLKvihelC8E/edit" target="_blank">key</a>)</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728754
+DTSTART:20251015T050000Z
+DTEND:20251015T050000Z
+CLASS:PUBLIC
+DESCRIPTION:You must be present have this to participation count\, but shou
+ ld do all of the work on this week's Ed lesson regardless.
+SEQUENCE:0
+SUMMARY:Week 4 class  [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728754
+X-ALT-DESC;FMTTYPE=text/html:<div class="description_content">\n<div class=
+ "long_description small_description">You must be present have this to part
+ icipation count\, but should do all of the work on this week's Ed lesson r
+ egardless.</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T182200Z
+UID:event-assignment-10375695
+DTSTART;VALUE=DATE;VALUE=DATE:20251015
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Conceptual Problems 3 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375695
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T181900Z
+UID:event-assignment-10683057
+DTSTART:20251017T180000Z
+DTEND:20251017T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Midterm 1 review survey [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10683057
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T235400Z
+UID:event-assignment-10728753
+DTSTART:20251017T190000Z
+DTEND:20251017T190000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 4 check in pre-work on [Ed] (https://edstem.
+ org/us/)
+SEQUENCE:0
+SUMMARY:Week 4 check in pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728753
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 4&nbsp\;check
+  in pre-work on <a class="inline_disabled" href="https://edstem.org/us/" t
+ arget="_blank">Ed</a></span></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728752
+DTSTART:20251018T050000Z
+DTEND:20251018T050000Z
+CLASS:PUBLIC
+DESCRIPTION:See the Check In Information slide on [Ed] (https://edstem.org/
+ us/). 
+SEQUENCE:0
+SUMMARY:Week 4 check in meeting [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728752
+X-ALT-DESC;FMTTYPE=text/html:<p>See the Check In Information slide on <a cl
+ ass="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed</a>
+ .&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728758
+DTSTART:20251021T050000Z
+DTEND:20251021T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 5 reflection as part of the Week 5 reflection
+  and workshop pre-work on [Ed] (https://edstem.org/us/)
+SEQUENCE:0
+SUMMARY:Week 5 Reflection [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728758
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 5 reflection as part of t
+ he Week 5 reflection and workshop pre-work on <a class="inline_disabled" h
+ ref="https://edstem.org/us/" target="_blank">Ed</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728762
+DTSTART:20251021T050000Z
+DTEND:20251021T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 5 workshop pre-work on [Ed] (https://edstem.o
+ rg/us/)
+SEQUENCE:0
+SUMMARY:Week 5 workshop pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728762
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 5 workshop pr
+ e-work on <a class="inline_disabled" href="https://edstem.org/us/" target=
+ "_blank">Ed</a></span></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728757
+DTSTART:20251021T233000Z
+DTEND:20251021T233000Z
+CLASS:PUBLIC
+DESCRIPTION:Please see the Syllabus Required Coursework section for informa
+ tion about weekly quizzes in this class. Paper quizzes will be handed out 
+ during class and you will be expected to do these independently and turn t
+ hem in by the deadline via Gradescope. Other quizzes may be done using Gra
+ descope or Ed\, depending on the material.\n\n[Sample week 5 quiz] (https:
+ //docs.google.com/document/d/1bqqA8kwwigeV8qfD5hXaayzOacrlAPZ7mtuxB-7KFb8/
+ edit?usp=sharing) ([key] (https://docs.google.com/document/d/1XHFFgN1DIzEu
+ A32akVA99dt9lkETBykCNYWsDeUsrAk/edit?usp=sharing))
+SEQUENCE:0
+SUMMARY:Week 5 Quiz [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728757
+X-ALT-DESC;FMTTYPE=text/html:<p>Please see the Syllabus Required Coursework
+  section for information about weekly <strong>quizzes</strong> in this cla
+ ss. Paper quizzes will be handed out during class and you will be expected
+  to do these independently and turn them in by the deadline via Gradescope
+ . Other quizzes may be done using Gradescope or Ed\, depending on the mate
+ rial.</p>\n<p><a class="inline_disabled" href="https://docs.google.com/doc
+ ument/d/1bqqA8kwwigeV8qfD5hXaayzOacrlAPZ7mtuxB-7KFb8/edit?usp=sharing" tar
+ get="_blank">Sample week 5 quiz</a> (<a class="inline_disabled" href="http
+ s://docs.google.com/document/d/1XHFFgN1DIzEuA32akVA99dt9lkETBykCNYWsDeUsrA
+ k/edit?usp=sharing" target="_blank">key</a>)</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728761
+DTSTART:20251022T050000Z
+DTEND:20251022T050000Z
+CLASS:PUBLIC
+DESCRIPTION:You must be present have this to participation count\, but shou
+ ld do all of the work on this week's Ed lesson regardless.
+SEQUENCE:0
+SUMMARY:Week 5 class [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728761
+X-ALT-DESC;FMTTYPE=text/html:<div class="description_content">\n<div class=
+ "long_description small_description">You must be present have this to part
+ icipation count\, but should do all of the work on this week's Ed lesson r
+ egardless.</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T175300Z
+UID:event-assignment-10375718
+DTSTART:20251022T193000Z
+DTEND:20251022T193000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Midterm 1 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375718
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T182200Z
+UID:event-assignment-10375696
+DTSTART;VALUE=DATE;VALUE=DATE:20251022
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Conceptual Problems 4 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375696
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T181500Z
+UID:event-assignment-10375729
+DTSTART:20251024T180000Z
+DTEND:20251024T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 3.2 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375729
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T235500Z
+UID:event-assignment-10728760
+DTSTART:20251024T190000Z
+DTEND:20251024T190000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 5 check in pre-work on [Ed] (https://edstem.o
+ rg/us/)
+SEQUENCE:0
+SUMMARY:Week 5 check in pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728760
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 5 check in pr
+ e-work on <a class="inline_disabled" href="https://edstem.org/us/" target=
+ "_blank">Ed</a></span></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728759
+DTSTART:20251025T050000Z
+DTEND:20251025T050000Z
+CLASS:PUBLIC
+DESCRIPTION:See the Check In Information slide on [Ed] (https://edstem.org/
+ us/). 
+SEQUENCE:0
+SUMMARY:Week 5 check in meeting [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728759
+X-ALT-DESC;FMTTYPE=text/html:<p>See the Check In Information slide on <a cl
+ ass="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed</a>
+ .&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T181500Z
+UID:event-assignment-10375730
+DTSTART:20251027T180000Z
+DTEND:20251027T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 3.3 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375730
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728764
+DTSTART:20251028T050000Z
+DTEND:20251028T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 6 reflection as part of the Week 6 reflectio
+ n and workshop pre-work on [Ed] (https://edstem.org/us/)
+SEQUENCE:0
+SUMMARY:Week 6 Reflection  [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728764
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 6 reflection as part of t
+ he Week 6&nbsp\;reflection and workshop pre-work on <a class="inline_disab
+ led" href="https://edstem.org/us/" target="_blank">Ed</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728768
+DTSTART:20251028T050000Z
+DTEND:20251028T050000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 6 workshop pre-work on [Ed] (https://edstem.o
+ rg/us/)
+SEQUENCE:0
+SUMMARY:Week 6 workshop pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728768
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 6 workshop pre-work on <a
+  class="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed<
+ /a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728767
+DTSTART:20251029T050000Z
+DTEND:20251029T050000Z
+CLASS:PUBLIC
+DESCRIPTION:You must be present have this to participation count\, but shou
+ ld do all of the work on this week's Ed lesson regardless.
+SEQUENCE:0
+SUMMARY:Week 6 class [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728767
+X-ALT-DESC;FMTTYPE=text/html:<div class="description_content">\n<div class=
+ "long_description small_description">You must be present have this to part
+ icipation count\, but should do all of the work on this week's Ed lesson r
+ egardless.</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T182200Z
+UID:event-assignment-10375697
+DTSTART;VALUE=DATE;VALUE=DATE:20251029
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Conceptual Problems 5 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375697
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T181500Z
+UID:event-assignment-10375731
+DTSTART:20251031T180000Z
+DTEND:20251031T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 4.1 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=10&year=2025#assignment_10375731
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T235600Z
+UID:event-assignment-10728766
+DTSTART:20251031T190000Z
+DTEND:20251031T190000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 6 check in pre-work on [Ed] (https://edstem.
+ org/us/)
+SEQUENCE:0
+SUMMARY:Week 6 check in pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728766
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 6&nbsp\;check
+  in pre-work on <a class="inline_disabled" href="https://edstem.org/us/" t
+ arget="_blank">Ed</a></span></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728765
+DTSTART:20251101T050000Z
+DTEND:20251101T050000Z
+CLASS:PUBLIC
+DESCRIPTION:See the Check In Information slide on [Ed] (https://edstem.org/
+ us/). 
+SEQUENCE:0
+SUMMARY:Week 6 check in meeting [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=10&year=2025#assignment_10728765
+X-ALT-DESC;FMTTYPE=text/html:<p>See the Check In Information slide on <a cl
+ ass="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed</a>
+ .&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T181500Z
+UID:event-assignment-10375732
+DTSTART:20251103T190000Z
+DTEND:20251103T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 4.2 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10375732
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728763
+DTSTART:20251104T040000Z
+DTEND:20251104T040000Z
+CLASS:PUBLIC
+DESCRIPTION:Please see the Syllabus Required Coursework section for informa
+ tion about weekly quizzes in this class. Paper quizzes will be handed out 
+ during class and you will be expected to do these independently and turn t
+ hem in by the deadline via Gradescope. Other quizzes may be done using Gra
+ descope or Ed\, depending on the material.
+SEQUENCE:0
+SUMMARY:Week 6 Mock Midterm [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728763
+X-ALT-DESC;FMTTYPE=text/html:<p>Please see the Syllabus Required Coursework
+  section for information about weekly <strong>quizzes</strong> in this cla
+ ss. Paper quizzes will be handed out during class and you will be expected
+  to do these independently and turn them in by the deadline via Gradescope
+ . Other quizzes may be done using Gradescope or Ed\, depending on the mate
+ rial.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728769
+DTSTART:20251104T060000Z
+DTEND:20251104T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 7 reflection as part of the Week 7 reflectio
+ n and workshop pre-work on [Ed] (https://edstem.org/us/)
+SEQUENCE:0
+SUMMARY:Week 7 Reflection [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728769
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 7 reflection as part of t
+ he Week 7&nbsp\;reflection and workshop pre-work on <a class="inline_disab
+ led" href="https://edstem.org/us/" target="_blank">Ed</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728774
+DTSTART:20251104T060000Z
+DTEND:20251104T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 7 workshop pre-work on [Ed] (https://edstem.o
+ rg/us/)\n\n 
+SEQUENCE:0
+SUMMARY:Week 7 workshop pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728774
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 7 workshop pr
+ e-work on <a class="inline_disabled" href="https://edstem.org/us/" target=
+ "_blank">Ed</a></span></span></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728773
+DTSTART:20251105T003000Z
+DTEND:20251105T003000Z
+CLASS:PUBLIC
+DESCRIPTION:Please see the Syllabus Required Coursework section for informa
+ tion about weekly quizzes in this class. Paper quizzes will be handed out 
+ during class and you will be expected to do these independently and turn t
+ hem in by the deadline via Gradescope. Other quizzes may be done using Gra
+ descope or Ed\, depending on the material.\n\n[Sample Quiz 7] (https://doc
+ s.google.com/document/d/1I0Iq-rDHzd8VXBpGBTru0nkvFs3DW8bmHVODeQC1Q0I/edit?
+ usp=sharing) ([key] (https://docs.google.com/document/d/12xCzuWIX9AZdMweP5
+ 1Zy_IQg1nYfgJQu6ZzCOsyXPxA/edit?usp=sharing))
+SEQUENCE:0
+SUMMARY:Week 7 quiz [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728773
+X-ALT-DESC;FMTTYPE=text/html:<p>Please see the Syllabus Required Coursework
+  section for information about weekly <strong>quizzes</strong> in this cla
+ ss. Paper quizzes will be handed out during class and you will be expected
+  to do these independently and turn them in by the deadline via Gradescope
+ . Other quizzes may be done using Gradescope or Ed\, depending on the mate
+ rial.</p>\n<p><a class="inline_disabled" href="https://docs.google.com/doc
+ ument/d/1I0Iq-rDHzd8VXBpGBTru0nkvFs3DW8bmHVODeQC1Q0I/edit?usp=sharing" tar
+ get="_blank">Sample Quiz 7</a> (<a class="inline_disabled" href="https://d
+ ocs.google.com/document/d/12xCzuWIX9AZdMweP51Zy_IQg1nYfgJQu6ZzCOsyXPxA/edi
+ t?usp=sharing" target="_blank">key</a>)</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728715
+DTSTART:20251105T060000Z
+DTEND:20251105T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Full details for this assignment are posted in [Ed] (https://ed
+ stem.org/us).
+SEQUENCE:0
+SUMMARY:Mid-quarter SWYK  [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728715
+X-ALT-DESC;FMTTYPE=text/html:<p>Full details for this assignment are posted
+  in <a class="inline_disabled" href="https://edstem.org/us" target="_blank
+ ">Ed</a>.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728772
+DTSTART:20251105T060000Z
+DTEND:20251105T060000Z
+CLASS:PUBLIC
+DESCRIPTION:You must be present have this to participation count\, but shou
+ ld do all of the work on this week's Ed lesson regardless.
+SEQUENCE:0
+SUMMARY:Week 7 class [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728772
+X-ALT-DESC;FMTTYPE=text/html:<div class="description_content">\n<div class=
+ "long_description small_description">You must be present have this to part
+ icipation count\, but should do all of the work on this week's Ed lesson r
+ egardless.</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T181600Z
+UID:event-assignment-10375733
+DTSTART:20251105T190000Z
+DTEND:20251105T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 4.3 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10375733
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T182200Z
+UID:event-assignment-10375698
+DTSTART;VALUE=DATE;VALUE=DATE:20251105
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Conceptual Problems 6 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10375698
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T000100Z
+UID:event-assignment-10728771
+DTSTART:20251107T200000Z
+DTEND:20251107T200000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 7 check in pre-work on [Ed] (https://edstem.
+ org/us/)
+SEQUENCE:0
+SUMMARY:Week 7 check in pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728771
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 7&nbsp\;check
+  in pre-work on <a class="inline_disabled" href="https://edstem.org/us/" t
+ arget="_blank">Ed</a></span></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728770
+DTSTART:20251108T060000Z
+DTEND:20251108T060000Z
+CLASS:PUBLIC
+DESCRIPTION:See the Check In Information slide on [Ed] (https://edstem.org/
+ us/). 
+SEQUENCE:0
+SUMMARY:Week 7 check in meeting [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728770
+X-ALT-DESC;FMTTYPE=text/html:<p>See the Check In Information slide on <a cl
+ ass="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed</a>
+ .&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T181700Z
+UID:event-assignment-10375734
+DTSTART:20251110T190000Z
+DTEND:20251110T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 4.4 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10375734
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728775
+DTSTART:20251111T060000Z
+DTEND:20251111T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 8 reflection as part of the Week 8 reflectio
+ n and workshop pre-work on [Ed] (https://edstem.org/us/)
+SEQUENCE:0
+SUMMARY:Week 8 Reflection [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728775
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 8 reflection as part of t
+ he Week 8&nbsp\;reflection and workshop pre-work on <a class="inline_disab
+ led" href="https://edstem.org/us/" target="_blank">Ed</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728780
+DTSTART:20251111T060000Z
+DTEND:20251111T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 8 workshop pre-work on [Ed] (https://edstem.o
+ rg/us/)
+SEQUENCE:0
+SUMMARY:Week 8 workshop pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728780
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 8 workshop pr
+ e-work on <a class="inline_disabled" href="https://edstem.org/us/" target=
+ "_blank">Ed</a></span></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T182100Z
+UID:event-assignment-10683223
+DTSTART:20251111T190000Z
+DTEND:20251111T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Midterm 2 review survey [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10683223
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T182200Z
+UID:event-assignment-10375699
+DTSTART;VALUE=DATE;VALUE=DATE:20251112
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Conceptual Problems 7 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10375699
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T235700Z
+UID:event-assignment-10728777
+DTSTART:20251114T200000Z
+DTEND:20251114T200000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 8 check in pre-work on [Ed] (https://edstem.
+ org/us/)
+SEQUENCE:0
+SUMMARY:Week 8 check in pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728777
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 8&nbsp\;check
+  in pre-work on <a class="inline_disabled" href="https://edstem.org/us/" t
+ arget="_blank">Ed</a></span></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T182200Z
+UID:event-assignment-10375720
+DTSTART:20251114T203000Z
+DTEND:20251114T203000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Midterm 2 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10375720
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728776
+DTSTART:20251115T060000Z
+DTEND:20251115T060000Z
+CLASS:PUBLIC
+DESCRIPTION:See the Check In Information slide on [Ed] (https://edstem.org/
+ us/). 
+SEQUENCE:0
+SUMMARY:Week 8 check in meeting [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728776
+X-ALT-DESC;FMTTYPE=text/html:<p>See the Check In Information slide on <a cl
+ ass="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed</a>
+ .&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T181600Z
+UID:event-assignment-10375735
+DTSTART:20251117T190000Z
+DTEND:20251117T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 5.1 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10375735
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728781
+DTSTART:20251118T060000Z
+DTEND:20251118T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 9 reflection as part of the Week 9 reflectio
+ n and workshop pre-work on [Ed] (https://edstem.org/us/)\n\n 
+SEQUENCE:0
+SUMMARY:Week 9 Reflection [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728781
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 9 reflection as part of t
+ he Week 9&nbsp\;reflection and workshop pre-work on <a class="inline_disab
+ led" href="https://edstem.org/us/" target="_blank">Ed</a></p>\n<p>&nbsp\;<
+ /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728786
+DTSTART:20251118T060000Z
+DTEND:20251118T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 9 workshop pre-work on [Ed] (https://edstem.o
+ rg/us/)
+SEQUENCE:0
+SUMMARY:Week 9 workshop pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728786
+X-ALT-DESC;FMTTYPE=text/html:<p><span><em></em><span>Complete the Week 9 wo
+ rkshop pre-work on <a class="inline_disabled" href="https://edstem.org/us/
+ " target="_blank">Ed</a></span></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728785
+DTSTART:20251119T003000Z
+DTEND:20251119T003000Z
+CLASS:PUBLIC
+DESCRIPTION:Please see the Syllabus Required Coursework section for informa
+ tion about weekly quizzes in this class. Paper quizzes will be handed out 
+ during class and you will be expected to do these independently and turn t
+ hem in by the deadline via Gradescope. Other quizzes may be done using Gra
+ descope or Ed\, depending on the material.\n\nWeek 9 sample quiz (key)
+SEQUENCE:0
+SUMMARY:Week 9 quiz [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728785
+X-ALT-DESC;FMTTYPE=text/html:<p>Please see the Syllabus Required Coursework
+  section for information about weekly <strong>quizzes</strong> in this cla
+ ss. Paper quizzes will be handed out during class and you will be expected
+  to do these independently and turn them in by the deadline via Gradescope
+ . Other quizzes may be done using Gradescope or Ed\, depending on the mate
+ rial.</p>\n<p>Week 9 sample quiz (key)</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728784
+DTSTART:20251119T060000Z
+DTEND:20251119T060000Z
+CLASS:PUBLIC
+DESCRIPTION:You must be present have this to participation count\, but shou
+ ld do all of the work on this week's Ed lesson regardless.
+SEQUENCE:0
+SUMMARY:Week 9 class [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728784
+X-ALT-DESC;FMTTYPE=text/html:<div class="description_content">\n<div class=
+ "long_description small_description">You must be present have this to part
+ icipation count\, but should do all of the work on this week's Ed lesson r
+ egardless.</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T181800Z
+UID:event-assignment-10375736
+DTSTART:20251119T190000Z
+DTEND:20251119T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 5.2 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10375736
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T182200Z
+UID:event-assignment-10375700
+DTSTART;VALUE=DATE;VALUE=DATE:20251119
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Conceptual Problems 8 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10375700
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T181800Z
+UID:event-assignment-10375737
+DTSTART:20251121T190000Z
+DTEND:20251121T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 6.1 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10375737
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T000200Z
+UID:event-assignment-10728783
+DTSTART:20251121T200000Z
+DTEND:20251121T200000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 9 check in pre-work on [Ed] (https://edstem.
+ org/us/)
+SEQUENCE:0
+SUMMARY:Week 9 check in pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728783
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 9&nbsp\;check
+  in pre-work on <a class="inline_disabled" href="https://edstem.org/us/" t
+ arget="_blank">Ed</a></span></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728782
+DTSTART:20251122T060000Z
+DTEND:20251122T060000Z
+CLASS:PUBLIC
+DESCRIPTION:See the Check In Information slide on [Ed] (https://edstem.org/
+ us/). 
+SEQUENCE:0
+SUMMARY:Week 9 check in meeting [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728782
+X-ALT-DESC;FMTTYPE=text/html:<p>See the Check In Information slide on <a cl
+ ass="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed</a>
+ .&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728727
+DTSTART:20251125T060000Z
+DTEND:20251125T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 10 reflection as part of the Week 10 reflect
+ ion and workshop pre-work on [Ed] (https://edstem.org/us/)
+SEQUENCE:0
+SUMMARY:Week 10 Reflection [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728727
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 10 reflection as part of 
+ the Week 10&nbsp\;reflection and workshop pre-work on <a class="inline_dis
+ abled" href="https://edstem.org/us/" target="_blank">Ed</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728731
+DTSTART:20251125T060000Z
+DTEND:20251125T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 10 workshop pre-work on [Ed] (https://edstem.
+ org/us/)
+SEQUENCE:0
+SUMMARY:Week 10 workshop pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728731
+X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-v
+ ersion enhanced">\n<p><span><span>Complete the Week 10 workshop pre-work o
+ n <a class="inline_disabled" href="https://edstem.org/us/" target="_blank"
+ >Ed</a></span></span></p>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728730
+DTSTART:20251126T060000Z
+DTEND:20251126T060000Z
+CLASS:PUBLIC
+DESCRIPTION:You must be present have this to participation count\, but shou
+ ld do all of the work on this week's Ed lesson regardless.
+SEQUENCE:0
+SUMMARY:Week 10 class [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=11&year=2025#assignment_10728730
+X-ALT-DESC;FMTTYPE=text/html:<div class="description_content">\n<div class=
+ "long_description small_description">You must be present have this to part
+ icipation count\, but should do all of the work on this week's Ed lesson r
+ egardless.</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250915T170500Z
+UID:event-assignment-10375701
+DTSTART;VALUE=DATE;VALUE=DATE:20251126
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Conceptual Problems 9 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=11&year=2025#assignment_10375701
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T181900Z
+UID:event-assignment-10375738
+DTSTART:20251201T190000Z
+DTEND:20251201T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Section 6.2 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=12&year=2025#assignment_10375738
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728726
+DTSTART:20251202T040000Z
+DTEND:20251202T040000Z
+CLASS:PUBLIC
+DESCRIPTION:Please see the Syllabus Required Coursework section for informa
+ tion about weekly quizzes in this class. Paper quizzes will be handed out 
+ during class and you will be expected to do these independently and turn t
+ hem in by the deadline via Gradescope. Other quizzes may be done using Gra
+ descope or Ed\, depending on the material.
+SEQUENCE:0
+SUMMARY:Week 10 Mock Final [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=12&year=2025#assignment_10728726
+X-ALT-DESC;FMTTYPE=text/html:<p>Please see the Syllabus Required Coursework
+  section for information about weekly <strong>quizzes</strong> in this cla
+ ss. Paper quizzes will be handed out during class and you will be expected
+  to do these independently and turn them in by the deadline via Gradescope
+ . Other quizzes may be done using Gradescope or Ed\, depending on the mate
+ rial.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728732
+DTSTART:20251202T060000Z
+DTEND:20251202T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 11 reflection as part of the Week 11 reflecti
+ on and workshop pre-work on [Ed] (https://edstem.org/us/)
+SEQUENCE:0
+SUMMARY:Week 11 Reflection [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=12&year=2025#assignment_10728732
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Week 11 reflection as part of 
+ the Week 11 reflection and workshop pre-work on <a class="inline_disabled"
+  href="https://edstem.org/us/" target="_blank">Ed</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728738
+DTSTART:20251202T060000Z
+DTEND:20251202T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 11 workshop pre-work on [Ed] (https://edstem.
+ org/us/)
+SEQUENCE:0
+SUMMARY:Week 11 workshop pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=12&year=2025#assignment_10728738
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Complete the Week 11 workshop pre-wor
+ k on <a class="inline_disabled" href="https://edstem.org/us/" target="_bla
+ nk">Ed</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728714
+DTSTART:20251203T060000Z
+DTEND:20251203T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Full details for this assignment are posted in [Ed] (https://ed
+ stem.org/us/)[] (https://edstem.org/us/courses/29594/lessons/46923/slides/
+ 270289)
+SEQUENCE:0
+SUMMARY:Final SWYK [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=12&year=2025#assignment_10728714
+X-ALT-DESC;FMTTYPE=text/html:<p>Full details for this assignment are posted
+  in <a class="inline_disabled external" href="https://edstem.org/us/" targ
+ et="_blank"><span>Ed</span></a><a class="inline_disabled external" href="h
+ ttps://edstem.org/us/courses/29594/lessons/46923/slides/270289" target="_b
+ lank"></a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728736
+DTSTART:20251203T060000Z
+DTEND:20251203T060000Z
+CLASS:PUBLIC
+DESCRIPTION:You must be present have this to participation count\, but shou
+ ld do all of the work on this week's Ed lesson regardless.
+SEQUENCE:0
+SUMMARY:Week 11 class [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=12&year=2025#assignment_10728736
+X-ALT-DESC;FMTTYPE=text/html:<div class="description_content">\n<div class=
+ "long_description small_description">You must be present have this to part
+ icipation count\, but should do all of the work on this week's Ed lesson r
+ egardless.</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T001100Z
+UID:event-assignment-10728737
+DTSTART:20251203T060000Z
+DTEND:20251203T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Please see the Syllabus Required Coursework section for informa
+ tion about weekly quizzes in this class. Paper quizzes will be handed out 
+ during class and you will be expected to do these independently and turn t
+ hem in by the deadline via Gradescope. Other quizzes may be done using Gra
+ descope or Ed\, depending on the material.\n\nWeek 11 sample quiz (key)
+SEQUENCE:0
+SUMMARY:Week 11 quiz [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=12&year=2025#assignment_10728737
+X-ALT-DESC;FMTTYPE=text/html:<p>Please see the Syllabus Required Coursework
+  section for information about weekly <strong>quizzes</strong> in this cla
+ ss. Paper quizzes will be handed out during class and you will be expected
+  to do these independently and turn them in by the deadline via Gradescope
+ . Other quizzes may be done using Gradescope or Ed\, depending on the mate
+ rial.</p>\n<p>Week 11 sample quiz (key)</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T182100Z
+UID:event-assignment-10683227
+DTSTART:20251203T190000Z
+DTEND:20251203T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MM Final review survey [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=12&year=2025#assignment_10683227
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T192300Z
+UID:event-assignment-10684253
+DTSTART;VALUE=DATE;VALUE=DATE:20251203
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Conceptual Problems 10 [MATH 208 A/D]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_183206
+ 2&month=12&year=2025#assignment_10684253
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T235800Z
+UID:event-assignment-10728735
+DTSTART:20251205T200000Z
+DTEND:20251205T200000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Week 11  check in pre-work on [Ed] (https://edste
+ m.org/us/)
+SEQUENCE:0
+SUMMARY:Week 11 check in pre-work [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=12&year=2025#assignment_10728735
+X-ALT-DESC;FMTTYPE=text/html:<p><span><span>Complete the Week 11&nbsp\; che
+ ck in pre-work on <a class="inline_disabled" href="https://edstem.org/us/"
+  target="_blank">Ed</a></span></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T231600Z
+UID:event-assignment-10728733
+DTSTART:20251206T060000Z
+DTEND:20251206T060000Z
+CLASS:PUBLIC
+DESCRIPTION:See the Check In Information slide on [Ed] (https://edstem.org/
+ us/). 
+SEQUENCE:0
+SUMMARY:Week 11 check in meeting [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=12&year=2025#assignment_10728733
+X-ALT-DESC;FMTTYPE=text/html:<p>See the Check In Information slide on <a cl
+ ass="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed</a>
+ .&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T234700Z
+UID:event-assignment-10728713
+DTSTART:20251208T060000Z
+DTEND:20251208T060000Z
+CLASS:PUBLIC
+DESCRIPTION:Complete the Culminating reflection on [Ed] (https://edstem.org
+ /us/)
+SEQUENCE:0
+SUMMARY:Culminating Reflection [CSE 197 Y]
+URL;VALUE=URI:https://canvas.uw.edu/calendar?include_contexts=course_185008
+ 4&month=12&year=2025#assignment_10728713
+X-ALT-DESC;FMTTYPE=text/html:<p>Complete the Culminating reflection on <a c
+ lass="inline_disabled" href="https://edstem.org/us/" target="_blank">Ed</a
+ ></p>
+END:VEVENT
+END:VCALENDAR
