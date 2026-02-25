@@ -1,0 +1,32 @@
+*****************************
+* Lab 3 Synthesis Questions *
+*****************************
+Name(s): Sydney Vo  
+NetID(s): svo07
+
+
+-----------------------------------------------------------
+1) Explain: The segmentation fault happens in the fill_array function because the code tries to write data past the end of the 10 element array. Since I changed the length to 100, the loop kept going until it overwrote the saved return address on the stack. When the function finished and tried to go back to part_2, it used the corrupted address 0x00000002f000002c which isn't a valid place to execute code, so the OS killed the program.
+
+
+
+-----------------------------------------------------------
+2) Minimum len to cause a segfault: 44
+   Step-by-step calculation: The array starts at 0x7fffffffe000 and is made of 10 integers which takes up 40 bytes.
+
+On this x86-64 system, the saved return pointer is usually located right after the local variables on the stack.
+
+After the 40 bytes of the array, there are 4 bytes of padding to align the stack to 8 bytes.
+
+This means writing the 11th integer (at 44 bytes) starts overwriting the return address and causes the crash.
+
+
+-----------------------------------------------------------
+3) Hacker Reflection: Doing these levels showed me that a program's memory is a lot more vulnerable than I thought. It is crazy that just by typing a long string I can change where the program goes or even run my own code like in Level 2. It makes it clear that the computer doesn't really know the difference between data I am entering and the actual instructions it is supposed to follow
+
+
+-----------------------------------------------------------
+4) Vulnerabilities and Security: This whole problem exists because functions like Gets do not check how much space is actually available in the buffer before they start writing. To fix this, you should use safer functions like fgets because they let you specify a maximum length. Also, things like stack canaries or ASLR help because they make it much harder for a hacker to guess where to jump or to overwrite the return address without the program noticing.
+
+
+-----------------------------------------------------------
