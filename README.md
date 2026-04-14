@@ -2,7 +2,7 @@
 
   Run `npm i` to install the dependencies and more of these changes
     
-  Run `npm run dev`  tos start the developmsent server. 
+  Run `npm run dev`  tos start the developmsen t server. 
     
      
     
