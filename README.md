@@ -2,7 +2,7 @@
 
   Run `npm i` to install the dependenciessa and more of these changess
     h
-  Run `npm run dev` s tos staaswert the deelasopsdment nmhhgn
+  Run `npm run dev` s tos staaswert the deelasopsdment nmhhgnfd
 hws
 hhaasdas
 s
